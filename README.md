@@ -1,8 +1,8 @@
 # Sensor Boards
-<p>
-  BMS
-  APPS
-  current-trans
-  Accelo
-  etc
-</p>
+
+BMS <br/> 
+APPS <br/> 
+current-trans <br/> 
+Accelo <br/> 
+etc <br/> 
+
