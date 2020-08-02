@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+5V Pin=R1-2
+Change Component Footprint: Designator=R1 Old Footprint=RES 0603 New Footprint=10k Rotary Encoder
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=10k pot
+Change component parameters: Designator = "R1"; Footprint = "10k Rotary Encoder"; UniqueID = "\FSMCOMEE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Hole for Shaft"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www1.futureelectronics.com/doc/MURATA/SV01A103AEA01R00.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www1.futureelectronics.com/doc/MURATA/SV01A103AEA01R00.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.murata.com/en-us/products/productdata/8796781117470/S0070E.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.murata.com/en-us/products/productdata/8796781117470/S0070E.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/sensor/rotaryposition/r51e.ashx?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/sensor/rotaryposition/r51e.ashx?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://uk.rs-online.com/webdocs/13ec/0900766b813ecb07.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://uk.rs-online.com/webdocs/13ec/0900766b813ecb07.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "14.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Linearity"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SV01A103AEA01R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Turns"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=2.46, 5=2.328, 10=1.995, 25=1.596, 50=1.4628, 100=1.3299, 500=1.16366 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sensing Method"; Value = "Resistive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-7023-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "500ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "30%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R1-3
+Added Pin To Net: NetName=NetJ1_2 Pin=R1-2
+Added Net: Name=NetJ1_2
