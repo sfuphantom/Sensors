@@ -1,0 +1,64 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\jpaca\OneDrive - sfu.ca\docs\Team Phantom\Projects\Control\github\Sensors\BSE_Rev1.0\BSE_PCB.PcbDoc
+Date     : 9/1/2020
+Time     : 11:02:09 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (5.1mm > 2.54mm) Pad R1-0(32.475mm,46.625mm) on Multi-Layer Actual Hole Size = 5.1mm
+Rule Violations :1
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.175mm < 0.254mm) Between Pad R2-1(26.824mm,31.6mm) on Top Layer And Track (26.449mm,30.7mm)(26.449mm,30.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.175mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.193mm < 0.254mm) Between Pad R2-1(26.824mm,31.6mm) on Top Layer And Track (27.199mm,30.7mm)(27.199mm,30.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.193mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.175mm < 0.254mm) Between Pad R2-2(26.824mm,30mm) on Top Layer And Track (26.449mm,30.7mm)(26.449mm,30.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.175mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.175mm < 0.254mm) Between Pad R2-2(26.824mm,30mm) on Top Layer And Track (27.199mm,30.7mm)(27.199mm,30.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.175mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.175mm < 0.254mm) Between Pad R3-1(38mm,30.2mm) on Top Layer And Track (37.625mm,30.9mm)(37.625mm,31.1mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.175mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.175mm < 0.254mm) Between Pad R3-1(38mm,30.2mm) on Top Layer And Track (38.375mm,30.9mm)(38.375mm,31.1mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.175mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.175mm < 0.254mm) Between Pad R3-2(38mm,31.8mm) on Top Layer And Track (37.625mm,30.9mm)(37.625mm,31.1mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.175mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.193mm < 0.254mm) Between Pad R3-2(38mm,31.8mm) on Top Layer And Track (38.375mm,30.9mm)(38.375mm,31.1mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.193mm]
+Rule Violations :8
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room BSE_SCH (Bounding Region = (178.943mm, 26.924mm, 208.153mm, 46.736mm) (InComponentClass('BSE_SCH'))
+   Violation between Room Definition: Between Component R1-10k pot (32.475mm,46.625mm) on Top Layer And Room BSE_SCH (Bounding Region = (178.943mm, 26.924mm, 208.153mm, 46.736mm) (InComponentClass('BSE_SCH')) 
+   Violation between Room Definition: Between Room BSE_SCH (Bounding Region = (178.943mm, 26.924mm, 208.153mm, 46.736mm) (InComponentClass('BSE_SCH')) And SMT Small Component J1-Sensor Header (33.174mm,27.752mm) on Top Layer 
+   Violation between Room Definition: Between Room BSE_SCH (Bounding Region = (178.943mm, 26.924mm, 208.153mm, 46.736mm) (InComponentClass('BSE_SCH')) And SMT Small Component R2-1.1k (26.824mm,30.8mm) on Top Layer 
+   Violation between Room Definition: Between Room BSE_SCH (Bounding Region = (178.943mm, 26.924mm, 208.153mm, 46.736mm) (InComponentClass('BSE_SCH')) And SMT Small Component R3-2M (38mm,31mm) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 13
+Waived Violations : 0
+Time Elapsed        : 00:00:01
