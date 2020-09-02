@@ -2,27 +2,6 @@
 FileName = BSE_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 13
-      File : BSE_PCB.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : BSE_PCB.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Bottom Overlay
       File : BSE_PCB.GBO
 
@@ -112,6 +91,20 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Layer
+      File : BSE_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : BSE_PCB.GTL
 
@@ -126,19 +119,27 @@ Used DCodes :
     D14
     D15
     D21
+    D22
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : BSE_PCB.GBL
+Generating : Mechanical 13
+      File : BSE_PCB.GM13
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
-    D11
-    D21
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : BSE_PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
 *************************************************************
 
