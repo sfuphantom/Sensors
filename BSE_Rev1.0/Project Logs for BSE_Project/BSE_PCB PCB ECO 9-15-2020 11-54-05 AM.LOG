@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-3
+Change Component Comment : Designator=J1 Old Comment=WM4901-ND New Comment=Sensor Header
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+5V Pin=J1-3
+Added Room: Name=BSE_SCH
