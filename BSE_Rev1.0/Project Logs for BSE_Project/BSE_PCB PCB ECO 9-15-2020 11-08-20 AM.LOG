@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=+5V Pin=J1-3
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Room: Name=BSE_SCH

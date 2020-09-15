@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for BSE_Project
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -212,20 +212,20 @@ Name=Company
 Value=Team Phantom
 
 [Parameter2]
-Name=VersionRevision
-Value=1.0
-
-[Parameter3]
 Name=DWGnum
 Value=-
+
+[Parameter3]
+Name=TitleName
+Value=BSE Sensor Board
 
 [Parameter4]
 Name=Units
 Value=Mils
 
 [Parameter5]
-Name=TitleName
-Value=BSE Sensor Board
+Name=VersionRevision
+Value=1.0
 
 [Configuration1]
 Name=Sources
@@ -274,7 +274,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for BSE_Project
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1252,19 +1252,19 @@ ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=BSE_SCH_lib.SchLib
 ComponentDesignItemID1=Header3POS-SMD
 ComponentSymbolReference1=Header3POS-SMD
-ComponentUpdate1=1
+ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=BSE_SCH_lib.SchLib
 ComponentDesignItemID2=RES 1.1k
 ComponentSymbolReference2=RES 1.1k
-ComponentUpdate2=1
+ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=BSE_SCH_lib.SchLib
 ComponentDesignItemID3=RES 2M
 ComponentSymbolReference3=RES 2M
-ComponentUpdate3=1
+ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 FullReplace=1
 UpdateDesignatorLock=1

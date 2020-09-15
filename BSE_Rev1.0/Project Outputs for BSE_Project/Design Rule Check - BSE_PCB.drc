@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\jpaca\OneDrive - sfu.ca\docs\Team Phantom\Projects\Control\github\Sensors\BSE_Rev1.0\BSE_PCB.PcbDoc
-Date     : 9/2/2020
-Time     : 7:39:35 PM
+Date     : 9/15/2020
+Time     : 11:17:43 AM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
