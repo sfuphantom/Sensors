@@ -1,0 +1,76 @@
+Added Component: Designator=U?(SOT223)
+Add component (AddParameter): Name = "Accuracy"; Value = "0.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-223-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1669439.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1669439.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21665D.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21665D.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en023833&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en023833&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21665D.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21665D.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21665D.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21665D.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/1669439.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/1669439.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "1.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2117-3.3VDBTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "800mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "800mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.73, 25=0.61, 100=0.55 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "80uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3126"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TC2117-3.3VDBDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=TEMP_1
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=TEMP_2
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=TEMP_3
+Change Net Name : Old Net Name=NetJ3_4 New Net Name=TEMP_4
+Change Net Name : Old Net Name=NetJ3_5 New Net Name=TEMP_5
+Change Net Name : Old Net Name=NetJ3_6 New Net Name=TEMP_6
+Change Net Name : Old Net Name=NetJ3_7 New Net Name=TEMP_7
+Change Net Name : Old Net Name=NetJ3_8 New Net Name=TEMP_8
+Added Pin To Net: NetName=SHOCK_1 Pin=J7-1
+Added Pin To Net: NetName=SHOCK_1 Pin=U3-6
+Added Net: Name=SHOCK_1
+Added Pin To Net: NetName=SHOCK_2 Pin=J7-2
+Added Pin To Net: NetName=SHOCK_2 Pin=U3-5
+Added Net: Name=SHOCK_2
+Added Pin To Net: NetName=SHOCK_3 Pin=J7-3
+Added Pin To Net: NetName=SHOCK_3 Pin=U3-4
+Added Net: Name=SHOCK_3
+Added Pin To Net: NetName=SHOCK_4 Pin=J7-4
+Added Pin To Net: NetName=SHOCK_4 Pin=U3-3
+Added Net: Name=SHOCK_4
+Added Member To Class: ClassName=root Member=Component J2 WM4153-ND
+Added Member To Class: ClassName=root Member=Component JP4 Testpoint2
+Added Member To Class: ClassName=root Member=Component U1 74HCT151
+Added Member To Class: ClassName=root Member=Component U2 ADS111x
+Added Member To Class: ClassName=root Member=Component U3 74HCT153
+Added Member To Class: ClassName=root Member=Component U? TC2117-3.3VDBTR
