@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=U2 Old Footprint=TSSOP65P660X110-16 New Footprint=SOT127P400X1000-16N
+Change Component Footprint: Designator=U4 Old Footprint=TSSOP65P660X110-16 New Footprint=SOT127P400X1000-16N
+Change Component Footprint: Designator=U3 Old Footprint=TSSOP65P660X110-24 New Footprint=TSSOP24
+Change Pin Designator/Name:  Old Designator=U3-1 Old Name=GND New Designator =B10 New Name=13
+Change Pin Designator/Name:  Old Designator=U3-14 Old Name=B9 New Designator =A10 New Name=12
+Change Pin Designator/Name:  Old Designator=U3-24 Old Name=EN New Designator =VREFA New Name=2
+Change Pin Designator/Name:  Old Designator=U3-13 Old Name=B10 New Designator =GND New Name=1
+Change Pin Designator/Name:  Old Designator=U3-2 Old Name=VREFA New Designator =VREFB New Name=23
+Change Pin Designator/Name:  Old Designator=U3-3 Old Name=A1 New Designator =EN New Name=24
+Change Pin Designator/Name:  Old Designator=U3-12 Old Name=A10 New Designator =B9 New Name=14
+Change Pin Designator/Name:  Old Designator=U3-15 Old Name=B8 New Designator =A9 New Name=11
+Change Pin Designator/Name:  Old Designator=U3-5 Old Name=A3 New Designator =B2 New Name=21
+Change Pin Designator/Name:  Old Designator=U3-23 Old Name=VREFB New Designator =A1 New Name=3
+Change Pin Designator/Name:  Old Designator=U3-4 Old Name=A2 New Designator =B1 New Name=22
+Change Pin Designator/Name:  Old Designator=U3-22 Old Name=B1 New Designator =A2 New Name=4
+Change Pin Designator/Name:  Old Designator=U3-9 Old Name=A7 New Designator =B6 New Name=17
+Change Pin Designator/Name:  Old Designator=U3-18 Old Name=B5 New Designator =A6 New Name=8
+Change Pin Designator/Name:  Old Designator=U3-10 Old Name=A8 New Designator =B7 New Name=16
+Change Pin Designator/Name:  Old Designator=U3-17 Old Name=B6 New Designator =A7 New Name=9
+Change Pin Designator/Name:  Old Designator=U3-6 Old Name=A4 New Designator =B3 New Name=20
+Change Pin Designator/Name:  Old Designator=U3-21 Old Name=B2 New Designator =A3 New Name=5
+Change Pin Designator/Name:  Old Designator=U3-7 Old Name=A5 New Designator =B4 New Name=19
+Change Pin Designator/Name:  Old Designator=U3-20 Old Name=B3 New Designator =A4 New Name=6
+Change Pin Designator/Name:  Old Designator=U3-8 Old Name=A6 New Designator =B5 New Name=18
+Change Pin Designator/Name:  Old Designator=U3-19 Old Name=B4 New Designator =A5 New Name=7
+Change Pin Designator/Name:  Old Designator=U3-11 Old Name=A9 New Designator =B8 New Name=15
+Change Pin Designator/Name:  Old Designator=U3-16 Old Name=B7 New Designator =A8 New Name=10
