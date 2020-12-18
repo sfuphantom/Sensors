@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SHOCK_4 Pin=U4-3
+Removed Pin From Net: NetName=SHOCK_3 Pin=U4-4
+Removed Pin From Net: NetName=SHOCK_2 Pin=U4-5
+Removed Pin From Net: NetName=SHOCK_1 Pin=U4-6
+Added Pin To Net: NetName=SHOCK_1 Pin=U4-3
+Added Pin To Net: NetName=SHOCK_2 Pin=U4-4
+Added Pin To Net: NetName=SHOCK_3 Pin=U4-5
+Added Pin To Net: NetName=SHOCK_4 Pin=U4-6
