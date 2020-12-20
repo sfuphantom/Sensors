@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TX_PI Pin=JP9-1
+Removed Pin From Net: NetName=RX_PI Pin=JP11-1
+Added Pin To Net: NetName=SDA_PI Pin=JP9-1
+Added Pin To Net: NetName=SCL_PI Pin=JP11-1

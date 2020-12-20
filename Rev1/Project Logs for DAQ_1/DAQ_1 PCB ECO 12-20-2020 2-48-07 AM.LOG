@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TEMP_S0 Pin=R18-2
+Removed Pin From Net: NetName=TEMP_S2 Pin=R20-2
+Removed Pin From Net: NetName=TEMP_S2 Pin=U3-16
+Removed Pin From Net: NetName=TEMP_S0 Pin=U3-18
+Added Pin To Net: NetName=TEMP_S2 Pin=R18-2
+Added Pin To Net: NetName=TEMP_S0 Pin=R20-2
+Added Pin To Net: NetName=TEMP_S0 Pin=U3-16
+Added Pin To Net: NetName=TEMP_S2 Pin=U3-18
+Change Net Name : Old Net Name=TEMP_S0_PI New Net Name=TEMP_S2__PI
+Change Net Name : Old Net Name=TEMP_S2__PI New Net Name=TEMP_S0_PI
