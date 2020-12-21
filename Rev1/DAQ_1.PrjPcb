@@ -326,6 +326,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUXSRZFW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DAQ_1\Design Rule Check - DAQ_1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
