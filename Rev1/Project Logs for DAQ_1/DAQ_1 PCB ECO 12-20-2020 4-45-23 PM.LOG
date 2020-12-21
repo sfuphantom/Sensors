@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=TEMP_S1_PI Pin=U3-8
+Removed Pin From Net: NetName=SHOCK_S0_PI Pin=U3-10
+Removed Pin From Net: NetName=SHOCK_S1_PI Pin=U3-11
+Removed Member From Class: ClassName=RPI Member=TEMP_S2__PI
+Added Pin To Net: NetName=SHOCK_S1_PI Pin=U3-7
+Added Pin To Net: NetName=SHOCK_S0_PI Pin=U3-8
+Added Pin To Net: NetName=TEMP_S1_PI Pin=U3-10
+Added Pin To Net: NetName=TEMP_S2_PI Pin=R8-1
+Added Pin To Net: NetName=TEMP_S2_PI Pin=U3-11
+Added Net: Name=TEMP_S2_PI
+Added Member To Class: ClassName=root Member=Component J6 WM8263-ND
+Added Member To Class: ClassName=root Member=Component R5 665R
+Added Member To Class: ClassName=root Member=Component R7 665R
+Added Member To Class: ClassName=RPI Member=Wire TEMP_S2_PI
