@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TEMP_MUX Pin=U5-4
+Removed Pin From Net: NetName=SHOCK_MUX Pin=U5-5
+Added Pin To Net: NetName=SHOCK_MUX Pin=U5-4
+Added Pin To Net: NetName=TEMP_MUX Pin=U5-5
