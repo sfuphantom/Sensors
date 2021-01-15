@@ -2,30 +2,6 @@
 FileName = DAQ_1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Assembly
-      File : DAQ_1.GM2
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : DAQ_1.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D15
-    D16
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : DAQ_1.GTL
 
@@ -62,6 +38,84 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Assembly
+      File : DAQ_1.GM2
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : DAQ_1.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : DAQ_1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DAQ_1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DAQ_1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DAQ_1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : DAQ_1.GTS
 
@@ -91,27 +145,6 @@ Used DCodes :
     D45
     D46
     D47
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : DAQ_1.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : DAQ_1.GM3
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -156,39 +189,6 @@ Used DCodes :
     D14
     D15
     D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : DAQ_1.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D43
-    D44
-    D45
-    D46
-    D47
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : DAQ_1.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
