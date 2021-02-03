@@ -1,0 +1,22 @@
+* C:\Users\Gaming\Documents\TeamPhantom\Sensors\Temp_Amp_01\Simulation\Temp_Sens_.asc
+V1 vdd 0 5
+V2 NC_01 NC_02 PWL(0 -2.5e-3 1 -2e-3 2 -1.45e-3 3 -1e-3 4 -0.3e-3 5 0.4e-3 6 1.1e-3 7 2.0e-3 8 2.9e-3 9 4e-3 10 5.1e-3 11 6.3e-3 12 7.8e-3)
+XU3 N005 N003 vdd 0 N004 level.2 Avol=1Meg GBW=10Meg Slew=10Meg ilimit=25m rail=0 Vos=0 phimargin=45 en=0 enk=0 in=0 ink=0 Rin=500Meg
+R7 N004 N003 50k
+R8 N003 N002 1k
+XU2 N006 N002 vdd 0 N002 level.2 Avol=1Meg GBW=10Meg Slew=10Meg ilimit=25m rail=0 Vos=0 phimargin=45 en=0 enk=0 in=0 ink=0 Rin=500Meg
+C1 N005 N002 1µf V=16
+R9 vdd N006 750k
+R10 N006 N007 75k
+R§ntc N007 0 100k
+C2 N002 0 1µf V=16
+R1 vout N004 1k
+C3 vout 0 0.18µf
+R2 N008 NC_03 100
+C4 N008 0 0.068µf
+V3 N001 0 AC 1
+V4 N005 N002 0.001
+.tran 14
+.lib UniversalOpamps2.sub
+.backanno
+.end
