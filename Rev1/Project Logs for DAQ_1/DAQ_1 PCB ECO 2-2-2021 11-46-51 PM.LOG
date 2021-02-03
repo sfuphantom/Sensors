@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SHOCK_MUX Pin=U5-4
+Removed Pin From Net: NetName=TEMP_MUX Pin=U5-5
+Change Component Comment : Designator=U5 Old Comment=ADS1113 New Comment=ADS1115
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=TEMP_MUX Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=SHOCK_MUX Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
