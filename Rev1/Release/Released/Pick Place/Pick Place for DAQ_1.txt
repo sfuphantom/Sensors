@@ -4,13 +4,17 @@ C:\Users\Gaming\Documents\TeamPhantom\Sensors\Rev1\Release\Released\Pick Place\P
 ========================================================================================================================
 File Design Information:
 
-Date:       03/02/21
-Time:       01:56
+Date:       06/02/21
+Time:       13:34
 Revision:   67de29587c57c2ac315ebef26e671446e3dde834
 Variant:    No variations
 Units used: mil
 
 Designator Comment         Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                
+R24        1K              TopLayer RES-0603            1261.024      1790.158      360      "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                             
+R23        1K              TopLayer RES-0603            1007.480      1903.937      360      "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                             
+C9         "0.18uF 16V"    TopLayer CAP-0603            1259.055      1730.709      360      "CAP CER 0.18UF 16V X7R 0603"                                                                                                              
+C8         "0.18uF 16V"    TopLayer CAP-0603            1005.512      1844.882      360      "CAP CER 0.18UF 16V X7R 0603"                                                                                                              
 U5         ADS1115         TopLayer VSSOP50P310X310-10P 1194.094      1923.622      360      "ADS111x Ultra-Small, Low-Power, I
 2C-Compatible, 860-SPS, 16-Bit ADCs
 With Internal Reference, Oscillator, and Programmable Comparator" 
