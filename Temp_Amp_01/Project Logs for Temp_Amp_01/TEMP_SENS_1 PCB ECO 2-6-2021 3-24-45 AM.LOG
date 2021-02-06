@@ -1,0 +1,11 @@
+Change Component Description : Designator=U1 Old Description=3 2-µV VOS, 0.02-µV/°C, 17-µA, CMOS Operational Amplifiers
+Zero-Drift New Description=3 2-µV VOS, 0.02-µV/°C, 17-µA, CMOS Operational Amplifiers
+Zero-Drift 
+Added Component: Designator=IR?(ZTP-148SRC1)
+Added Pin To Net: NetName=GND Pin=IR?-1
+Added Pin To Net: NetName=Vref Pin=IR?-2
+Added Pin To Net: NetName=Vtp Pin=IR?-4
+Added Pin To Net: NetName=NetIR?_3 Pin=IR?-3
+Added Pin To Net: NetName=NetIR?_3 Pin=R5-1
+Added Net: Name=NetIR?_3
+Added Member To Class: ClassName=root Member=Component IR? ZTP-148SRC1
