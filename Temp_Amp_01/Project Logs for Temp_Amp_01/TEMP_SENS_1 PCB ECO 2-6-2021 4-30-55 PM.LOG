@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=MH3-1
+Removed Pin From Net: NetName=GND Pin=MH4-1
+Change Component Description : Designator=U1 Old Description=3 2-µV VOS, 0.02-µV/°C, 17-µA, CMOS Operational Amplifiers
+Zero-Drift New Description=3 2-µV VOS, 0.02-µV/°C, 17-µA, CMOS Operational Amplifiers
+Zero-Drift 

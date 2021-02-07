@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=JP2 Old Footprint=TP1 New Footprint=TP2
+Change Component Footprint: Designator=JP3 Old Footprint=TP1 New Footprint=TP2
+Change Component Comment : Designator=JP2 Old Comment=36-5015CT-ND New Comment=Testpoint2
+Change Component Comment : Designator=JP3 Old Comment=36-5015CT-ND New Comment=Testpoint2
+Change component parameters: Designator = "JP2" ("JP2"); Footprint = "TP1"; UniqueID = "\OQTSFMIQ" ("\OQTSFMIQ")
+Change component parameters: Designator = "JP3" ("JP3"); Footprint = "TP1"; UniqueID = "\TEAVRHWK" ("\TEAVRHWK")
