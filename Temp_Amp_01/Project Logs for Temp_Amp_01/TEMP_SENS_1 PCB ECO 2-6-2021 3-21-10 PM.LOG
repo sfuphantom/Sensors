@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=D+5V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=Vout Pin=J1-3
+Removed Member From Class: ClassName=root Member=J1
+Added Component: Designator=JP1(DF13-3P-1.25DS)
+Added Pin To Net: NetName=D+5V Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=Vout Pin=JP1-3
+Added Member To Class: ClassName=root Member=Component JP1 DF13-3P-1.25DS(50)
