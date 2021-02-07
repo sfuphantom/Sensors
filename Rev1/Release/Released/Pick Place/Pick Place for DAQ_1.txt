@@ -5,20 +5,20 @@ C:\Users\Gaming\Documents\TeamPhantom\Sensors\Rev1\Release\Released\Pick Place\P
 File Design Information:
 
 Date:       06/02/21
-Time:       17:18
+Time:       22:39
 Revision:   9ab999c58c5bd8cc2830e06df9d42542ceb768d3
 Variant:    No variations
 Units used: mil
 
 Designator Comment         Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                
-R24        1K              TopLayer RES-0603            1261.024      1790.158      360      "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                             
-R23        1K              TopLayer RES-0603            1007.480      1903.937      360      "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                             
-C9         "0.18uF 16V"    TopLayer CAP-0603            1259.055      1730.709      360      "CAP CER 0.18UF 16V X7R 0603"                                                                                                              
-C8         "0.18uF 16V"    TopLayer CAP-0603            1005.512      1844.882      360      "CAP CER 0.18UF 16V X7R 0603"                                                                                                              
+R24        1K              TopLayer RES-0603            1290.551      1730.906      90       "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                             
+R23        1K              TopLayer RES-0603            946.457       1904.331      360      "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                             
+C9         "0.18uF 16V"    TopLayer CAP-0603            1259.449      1819.685      360      "CAP CER 0.18UF 16V X7R 0603"                                                                                                              
+C8         "0.18uF 16V"    TopLayer CAP-0603            1035.433      1872.834      90       "CAP CER 0.18UF 16V X7R 0603"                                                                                                              
 U5         ADS1115         TopLayer VSSOP50P310X310-10P 1194.094      1923.622      360      "ADS111x Ultra-Small, Low-Power, I
 2C-Compatible, 860-SPS, 16-Bit ADCs
 With Internal Reference, Oscillator, and Programmable Comparator" 
-C7         0.1uF           TopLayer CAP-0603            1350.787      1869.390      90       "CAP CER 0.1UF 16V X7R 0603"                                                                                                               
+C7         0.1uF           TopLayer CAP-0603            1380.709      1903.150      180      "CAP CER 0.1UF 16V X7R 0603"                                                                                                               
 J6         WM8263-ND       TopLayer 2X6PIN              466.535       2461.417      270      "CONN HEADER R/A 12POS 2.54MM"                                                                                                             
 JP7        Testpoint2      TopLayer TP2                 1215.748      2677.953      90       "Single layer pad TP"                                                                                                                      
 JP6        Testpoint2      TopLayer TP2                 1307.480      2677.953      0        "Single layer pad TP"                                                                                                                      

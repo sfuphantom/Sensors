@@ -2,26 +2,6 @@
 FileName = DAQ_1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : DAQ_1.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D48
-    D49
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : DAQ_1.GTL
 
@@ -169,6 +149,23 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : DAQ_1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : DAQ_1.GTP
 
@@ -196,19 +193,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : DAQ_1.GTO
+Generating : Bottom Layer
+      File : DAQ_1.GBL
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
+    D48
+    D49
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
 *************************************************************
 
