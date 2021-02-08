@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Vref Pin=JP2-1
+Removed Pin From Net: NetName=Vout Pin=JP3-1
+Removed Member From Class: ClassName=root Member=JP2
+Removed Member From Class: ClassName=root Member=JP3

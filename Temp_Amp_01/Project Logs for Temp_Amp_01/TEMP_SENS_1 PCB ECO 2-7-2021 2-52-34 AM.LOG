@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Vout Pin=JP1-1
+Removed Pin From Net: NetName=D+5V Pin=JP1-3
+Change Component Description : Designator=U1 Old Description=3 2-µV VOS, 0.02-µV/°C, 17-µA, CMOS Operational Amplifiers
+Zero-Drift New Description=3 2-µV VOS, 0.02-µV/°C, 17-µA, CMOS Operational Amplifiers
+Zero-Drift 
+Added Pin To Net: NetName=D+5V Pin=JP1-1
+Added Pin To Net: NetName=Vout Pin=JP1-3
