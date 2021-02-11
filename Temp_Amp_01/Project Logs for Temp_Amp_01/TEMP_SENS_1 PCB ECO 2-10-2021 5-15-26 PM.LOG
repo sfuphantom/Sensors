@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=R4-1
+Removed Pin From Net: NetName=Vout Pin=R4-2
+Removed Member From Class: ClassName=root Member=R4
+Added Component: Designator=R?(RES-0603)
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RC0603FR-07200KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=R?-1
+Added Pin To Net: NetName=Vout Pin=R?-2
+Added Member To Class: ClassName=root Member=Component R? 200k 1%

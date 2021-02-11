@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Temp_Amp_01
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KEHVNVUJ
 
 [Document4]
 DocumentPath=..\..\Phantom-Library\Diodes.SchLib
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LUGGOPMJ
 
 [Document5]
 DocumentPath=..\..\Phantom-Library\ICs.SchLib
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AKHWASUG
 
 [Document7]
 DocumentPath=..\..\Phantom-Library\LEDs.SchLib
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BAPOMBKI
 
 [Document8]
 DocumentPath=..\..\Phantom-Library\Logic.SchLib
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RBWCNUYM
 
 [Document9]
 DocumentPath=..\..\Phantom-Library\Misc.SchLib
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CJAKLYBW
 
 [Document13]
 DocumentPath=..\..\Phantom-Library\Resistors.SchLib
@@ -273,7 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LHWSPCLI
 
 [Document15]
 DocumentPath=New_Parts_Temp.SchLib
@@ -327,7 +327,83 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Release\BOM\Bill of Materials-TEMP_SENS_1.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Temp_Amp_01\Design Rule Check - TEMP_SENS_1.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Release\Pick Place\Pick Place for TEMP_SENS_1.txt
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Release\NC Drill\TEMP_SENS_1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Release\Gerber\TEMP_SENS_1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Release\Gerber\TEMP_SENS_1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Release\NC Drill\TEMP_SENS_1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Release\Gerber\TEMP_SENS_1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Release\Gerber\TEMP_SENS_1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Release\NC Drill\TEMP_SENS_1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -339,6 +415,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for Temp_Amp_01
 
 [OutputGroup1]
 Name=Netlist Outputs

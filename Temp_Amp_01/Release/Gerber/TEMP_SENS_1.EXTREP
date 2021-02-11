@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: TEMP_SENS_1.GBR   2/6/2021  5:10:59 PM
+Gerber File Extension Report For: TEMP_SENS_1.GBR   2/10/2021  5:48:13 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,5 +15,6 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM2                Top Assembly                            
+.GM3                BOARD_OUTLINE                           
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------
