@@ -4,27 +4,29 @@ C:\Users\Gaming\Documents\TeamPhantom\Sensors\Temp_Amp_01\Release\Pick Place\Pic
 ========================================================================================================================
 File Design Information:
 
-Date:       10/02/21
-Time:       17:48
-Revision:   a165ee2def0eb72aab1a26c4cc1c2b6b2bd630c5
+Date:       12/02/21
+Time:       20:05
+Revision:   461ea3474966208648add8d5752a6430df023472
 Variant:    No variations
 Units used: mil
 
-Designator Comment            Layer    Footprint         Center-X(mil) Center-Y(mil) Rotation Description                                                               
-C4         0.1uF              TopLayer CAP-0603          533.465       190.945       180      "CAP CER 0.1UF 16V X7R 0603"                                              
-R4         "200k 1%"          TopLayer RES-0603          627.953       679.134       0        "RES SMD 200K OHM 1% 1/10W 0603"                                          
-U1         TLV2333            TopLayer TSSOP65P505X110-8 521.654       465.551       270      "3 2-µV VOS, 0.02-µV/°C, 17-µA, CMOS Operational Amplifiers
+Designator Comment      Layer    Footprint         Center-X(mil) Center-Y(mil) Rotation Description                                                               
+JP3        Testpoint2   TopLayer TP2               360.236       163.386       0        "Single layer pad TP"                                                     
+JP2        Testpoint2   TopLayer TP2               730.315       679.134       0        "Single layer pad TP"                                                     
+C4         0.1uF        TopLayer CAP-0603          533.465       190.945       180      "CAP CER 0.1UF 16V X7R 0603"                                              
+R4         "200k 1%"    TopLayer RES-0603          627.953       679.134       0        "RES SMD 200K OHM 1% 1/10W 0603"                                          
+U1         TLV2333      TopLayer TSSOP65P505X110-8 521.654       465.551       270      "3 2-µV VOS, 0.02-µV/°C, 17-µA, CMOS Operational Amplifiers
 Zero-Drift " 
-R5         "75k 1%"           TopLayer RES-0603          444.882       227.362       90       "RES SMD 75K OHM 1% 1/8W 0603"                                            
-R3         1K                 TopLayer RES-0603          541.339       647.638       270      "RES SMD 1K OHM 1% 1/10W 0603"                                            
-R2         "100R 1%"          TopLayer RES-0603          501.969       284.449       270      "RES 100 OHM 1% 1/8W 0603"                                                
-R1         "750k 1%"          TopLayer RES-0603          416.339       312.992       180      "RES 750K OHM 1% 1/10W 0603"                                              
-IR1        ZTP-148SRC1        TopLayer ZTP-148SRC1       289.449       464.488       360      "THERMOPILE IR SENSOR with thermistor"                                    
-C6         1uF                TopLayer CAP-0603          318.898       708.661       270      "CAP CER 1UF 16V X7R 0603"                                                
-C5         1uF                TopLayer CAP-0603          289.370       618.110       360      "CAP CER 1UF 16V X7R 0603"                                                
-C3         1uF                TopLayer CAP-0603          629.921       620.078       180      "CAP CER 1UF 16V X7R 0603"                                                
-C2         1uF                TopLayer CAP-0603          622.047       403.543       270      "CAP CER 1UF 16V X7R 0603"                                                
-C1         0.1uF              TopLayer CAP-0603          561.024       281.496       90       "CAP CER 0.1UF 16V X7R 0603"                                              
-JP1        DF13-3P-1.25DS(50) TopLayer DF13-3P-1.25DS    688.976       450.787       270      "CONN HEADER R/A 3POS 1.25MM"                                             
-MH2        MountingHole       TopLayer MH4.2MM           151.575       793.307       0        "Mounting hole, 4.2mm"                                                    
-MH1        MountingHole       TopLayer MH4.2MM           151.575       151.575       0        "Mounting hole, 4.2mm"                                                    
+R5         "75k 1%"     TopLayer RES-0603          444.882       227.362       90       "RES SMD 75K OHM 1% 1/8W 0603"                                            
+R3         1K           TopLayer RES-0603          541.339       647.638       270      "RES SMD 1K OHM 1% 1/10W 0603"                                            
+R2         "100R 1%"    TopLayer RES-0603          501.969       284.449       270      "RES 100 OHM 1% 1/8W 0603"                                                
+R1         "750k 1%"    TopLayer RES-0603          416.339       312.992       180      "RES 750K OHM 1% 1/10W 0603"                                              
+IR1        ZTP-148SRC1  TopLayer ZTP-148SRC1       289.449       464.488       360      "THERMOPILE IR SENSOR with thermistor"                                    
+C6         1uF          TopLayer CAP-0603          318.898       708.661       270      "CAP CER 1UF 16V X7R 0603"                                                
+C5         1uF          TopLayer CAP-0603          289.370       618.110       360      "CAP CER 1UF 16V X7R 0603"                                                
+C3         1uF          TopLayer CAP-0603          629.921       620.078       180      "CAP CER 1UF 16V X7R 0603"                                                
+C2         1uF          TopLayer CAP-0603          622.047       403.543       270      "CAP CER 1UF 16V X7R 0603"                                                
+C1         0.1uF        TopLayer CAP-0603          561.024       281.496       90       "CAP CER 0.1UF 16V X7R 0603"                                              
+JP1        732-5316-ND  TopLayer 3PIN-JP           736.221       425.197       270      "CONN HEADER VERT 3POS 2.54MM"                                            
+MH2        MountingHole TopLayer MH4.2MM           151.575       793.307       0        "Mounting hole, 4.2mm"                                                    
+MH1        MountingHole TopLayer MH4.2MM           151.575       151.575       0        "Mounting hole, 4.2mm"                                                    

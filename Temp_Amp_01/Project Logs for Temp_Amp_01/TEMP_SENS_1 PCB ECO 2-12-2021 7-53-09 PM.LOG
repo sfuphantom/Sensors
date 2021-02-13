@@ -1,0 +1,6 @@
+Added Component: Designator=JP2(TP2)
+Added Component: Designator=JP3(TP2)
+Added Pin To Net: NetName=Vout Pin=JP2-1
+Added Pin To Net: NetName=Vref Pin=JP3-1
+Added Member To Class: ClassName=root Member=Component JP2 Testpoint2
+Added Member To Class: ClassName=root Member=Component JP3 Testpoint2

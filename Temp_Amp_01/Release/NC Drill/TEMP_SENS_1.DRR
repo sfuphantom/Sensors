@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: TEMP_SENS_1.PcbDoc   2/10/2021  5:48:12 PM
+NCDrill File Report For: TEMP_SENS_1.PcbDoc   2/12/2021  8:04:57 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : TEMP_SENS_1.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             29        PTH        0.00inch (0.00mm)
+T1      12mil (0.3mm)                                             Round             25        PTH        0.00inch (0.00mm)
 T2      18mil (0.45mm)                                            Round             4         PTH        0.00inch (0.00mm)
-T3      24mil (0.6mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T3      45mil (1.15mm)                                            Round             3         PTH        0.00inch (0.00mm)
 T4      165mil (4.2mm)                                            Round             2         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              38
+Totals                                                                              34
 
 Total Processing Time (hh:mm:ss) : 00:00:00
