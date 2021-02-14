@@ -19,30 +19,23 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : DAQ_1.GBL
+Generating : Bottom Overlay
+      File : DAQ_1.GBO
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D49
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
+    D12
+    D14
+    D16
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : DAQ_1.GTS
+Generating : Top Paste
+      File : DAQ_1.GTP
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -50,24 +43,19 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
 *************************************************************
 
 *************************************************************
@@ -107,6 +95,37 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Keep-Out Layer
+      File : DAQ_1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DAQ_1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D49
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : DAQ_1.GBP
 
@@ -121,57 +140,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : DAQ_1.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : DAQ_1.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D14
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : DAQ_1.GM2
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 3
       File : DAQ_1.GM3
 
@@ -182,14 +150,35 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : DAQ_1.GKO
+Generating : Top Solder
+      File : DAQ_1.GTS
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D58
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
 *************************************************************
 
 *************************************************************
@@ -209,5 +198,16 @@ Used DCodes :
     D45
     D46
     D47
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : DAQ_1.GM2
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D14
 *************************************************************
 
