@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: BSE_PCB.GBR   9/2/2020  7:41:57 PM
+Gerber File Extension Report For: BSE_PCB.GBR   2/14/2021  7:07:40 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,4 +16,8 @@ Layer Extension     Layer Description
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
 .GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
 ------------------------------------------------------------------------------------------
