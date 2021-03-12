@@ -1,0 +1,10 @@
+* source TEMP_SENS
+V_V1         5V 0 5Vdc
+R_R1         N14723 5V  750K TC=0,0 
+R_R2         N14745 N14723  75K TC=0,0 
+R_R3         0 N14745  100K TC=0,0 
+R_R4         N15133 N15057  100 TC=0,0 
+C_C1         0 N15057  1n  TC=0,0 
+L_L1         N15133 N14654  1T  
+C_C2         N14654 0  1T  TC=0,0 
+E_U2         N15133 0 VALUE {LIMIT(V(N14723,N14654)*1E6,-15V,+15V)}

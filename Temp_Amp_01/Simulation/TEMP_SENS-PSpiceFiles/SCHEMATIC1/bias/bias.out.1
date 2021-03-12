@@ -1,0 +1,49 @@
+
+**** 03/10/21 02:32:37 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\Gaming\Documents\TeamPhantom\Sensors\Temp_Amp_01\Simulation\temp_sens-pspicefiles\schemati
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "bias.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Gaming\cdssetup\OrCAD_PSpiceTIPSpice_Install\17.4.0\PSpice.ini file:
+.lib "nom_pspti.lib" 
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1000ns 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source TEMP_SENS
+X_U1         N14723 N14654 N14654 0 5V TLV333
+V_V1         5V 0 5Vdc
+R_R1         N14723 5V  750K TC=0,0 
+R_R2         N14745 N14723  75K TC=0,0 
+R_R3         0 N14745  100K TC=0,0 
+R_R4         N14654 N15057  100 TC=0,0 
+C_C1         0 N15057  1n  TC=0,0 
+L_L1         N14654 N14654  1T  
+C_C2         N14654 0  1T  TC=0,0 
+
+**** RESUMING bias.cir ****
+.END
+
+ERROR(ORPSIM-15143): Voltage source and/or inductor loop involving L_L1. You may break the loop by adding a series resistance
+
