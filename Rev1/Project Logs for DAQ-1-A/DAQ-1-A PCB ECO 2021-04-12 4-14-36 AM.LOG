@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=TEMP_MUX Pin=R23-1
+Removed Pin From Net: NetName=SHOCK_MUX Pin=R24-1
+Removed Pin From Net: NetName=TEMP_4 Pin=U2-1
+Removed Pin From Net: NetName=TEMP_3 Pin=U2-2
+Removed Pin From Net: NetName=TEMP_2 Pin=U2-3
+Removed Pin From Net: NetName=TEMP_1 Pin=U2-4
+Removed Pin From Net: NetName=TEMP_MUX Pin=U2-5
+Removed Pin From Net: NetName=TEMP_8 Pin=U2-12
+Removed Pin From Net: NetName=TEMP_7 Pin=U2-13
+Removed Pin From Net: NetName=TEMP_6 Pin=U2-14
+Removed Pin From Net: NetName=TEMP_5 Pin=U2-15
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=SHOCK_S1 Pin=U4-2
+Removed Pin From Net: NetName=SHOCK_1 Pin=U4-3
+Removed Pin From Net: NetName=SHOCK_2 Pin=U4-4
+Removed Pin From Net: NetName=SHOCK_3 Pin=U4-5
+Removed Pin From Net: NetName=SHOCK_4 Pin=U4-6
+Removed Pin From Net: NetName=SHOCK_MUX Pin=U4-7
+Removed Pin From Net: NetName=SHOCK_S0 Pin=U4-14
+Removed Member From Class: ClassName=root Member=C8
+Removed Member From Class: ClassName=root Member=C9
+Removed Member From Class: ClassName=root Member=R23
+Removed Member From Class: ClassName=root Member=R24
+Change Component Footprint: Designator=U2 Old Footprint=TSSOP65P660X110-16 New Footprint=16-SOIC
+Change Component Footprint: Designator=U4 Old Footprint=TSSOP65P660X110-16 New Footprint=16-SOIC
+Change Component Comment : Designator=U2 Old Comment=74HCT151PW,118 New Comment=296-37427-1-ND
+Change Component Comment : Designator=U4 Old Comment=74HCT153PW,118 New Comment=296-37427-1-ND
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP7
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP8
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP6
+Change component parameters: Designator = "U2" ("U2"); Footprint = "TSSOP65P660X110-16"; UniqueID = "\DNPZECGN" ("\DNPZECGN")
+Change component parameters (AddParameter): Name = "-3db Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=348177&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=348177&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic Function"; Value = "Multiplexer,Demultiplexer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051ATDWRQ1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "On-State Resistance"; Value = "75R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "20uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.7, 10=0.617, 25=0.5796, 100=0.4731, 250=0.43944, 500=0.374, 1000=0.2992 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay"; Value = "7ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "2359"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-37427-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-On Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.014829oz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "TSSOP65P660X110-16"; UniqueID = "\GIZBHVAI" ("\GIZBHVAI")
+Change component parameters (AddParameter): Name = "-3db Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=348177&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=348177&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic Function"; Value = "Multiplexer,Demultiplexer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051ATDWRQ1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "On-State Resistance"; Value = "75R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "20uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.7, 10=0.617, 25=0.5796, 100=0.4731, 250=0.43944, 500=0.374, 1000=0.2992 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay"; Value = "7ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "2359"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-37427-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-On Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.014829oz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TEMP_5 Pin=U2-1
+Added Pin To Net: NetName=TEMP_7 Pin=U2-2
+Added Pin To Net: NetName=TEMP_MUX Pin=U2-3
+Added Pin To Net: NetName=TEMP_8 Pin=U2-4
+Added Pin To Net: NetName=TEMP_6 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=TEMP_4 Pin=U2-12
+Added Pin To Net: NetName=TEMP_1 Pin=U2-13
+Added Pin To Net: NetName=TEMP_2 Pin=U2-14
+Added Pin To Net: NetName=TEMP_3 Pin=U2-15
+Added Pin To Net: NetName=SHOCK_MUX Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=SHOCK_S1 Pin=U4-10
+Added Pin To Net: NetName=SHOCK_S0 Pin=U4-11
+Added Pin To Net: NetName=SHOCK_4 Pin=U4-12
+Added Pin To Net: NetName=SHOCK_1 Pin=U4-13
+Added Pin To Net: NetName=SHOCK_2 Pin=U4-14
+Added Pin To Net: NetName=SHOCK_3 Pin=U4-15
+Added Pin To Net: NetName=TEMP_MUX Pin=U5-4
+Added Pin To Net: NetName=SHOCK_MUX Pin=U5-6
