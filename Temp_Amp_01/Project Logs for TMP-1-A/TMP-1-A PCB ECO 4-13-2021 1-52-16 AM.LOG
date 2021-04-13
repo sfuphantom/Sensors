@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Vout Pin=*-1
+Removed Pin From Net: NetName=GND Pin=*-2
+Removed Pin From Net: NetName=D+5V Pin=*-3
+Removed Pin From Net: NetName=GND Pin=*-4
+Removed Pin From Net: NetName=GND Pin=*-5
+Removed Member From Class: ClassName=root Member=*
+Added Component: Designator=J1(DF13-3P-1.25H)
+Added Pin To Net: NetName=Vout Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=D+5V Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Member To Class: ClassName=root Member=Component J1 CONN_DP13_3P_RA
