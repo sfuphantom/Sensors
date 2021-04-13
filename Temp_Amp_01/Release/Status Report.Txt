@@ -1,10 +1,10 @@
 Output: Generates pick and place files
 Type  : Pick Place
-From  : Variant [[No Variations]] of PCB Document [TEMP_SENS_1.PcbDoc]
-   Generated File[Pick Place for TEMP_SENS_1.txt]
+From  : Variant [[No Variations]] of PCB Document [TMP-1-A.PcbDoc]
+   Generated File[Pick Place for TMP-1-A.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:50:44 PM On 2/13/2021
+Finished Output Generation At 4:57:25 PM On 4/13/2021

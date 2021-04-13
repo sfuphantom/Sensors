@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C5
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C1
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C2
+Change Component Designator: OldDesignator=J?1 NewDesignator=J?
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP1
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Added Member To Class: ClassName=root Member=Component C4 0.1uF
+Added Member To Class: ClassName=root Member=Component C5 1uF
+Added Member To Class: ClassName=root Member=Component C6 1uF
+Added Member To Class: ClassName=root Member=Component JP2 Testpoint2
+Added Member To Class: ClassName=root Member=Component R2 100R 1%
+Added Member To Class: ClassName=root Member=Component R5 75k 1%
