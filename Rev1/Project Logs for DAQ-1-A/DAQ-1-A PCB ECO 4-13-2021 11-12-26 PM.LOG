@@ -1,0 +1,3 @@
+Added Component: Designator=JP13(TP2)
+Added Pin To Net: NetName=GND Pin=JP13-1
+Added Member To Class: ClassName=root Member=Component JP13 Testpoint2

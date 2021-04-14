@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SHOCK_S0 Pin=JP11-1
+Removed Pin From Net: NetName=SHOCK_S1 Pin=JP12-1
+Added Pin To Net: NetName=SHOCK_S1 Pin=JP11-1
+Added Pin To Net: NetName=SHOCK_S0 Pin=JP12-1

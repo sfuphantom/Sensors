@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=TEMP_8 Pin=J5-1
+Removed Pin From Net: NetName=TEMP_7 Pin=J5-2
+Removed Pin From Net: NetName=TEMP_6 Pin=J5-3
+Removed Pin From Net: NetName=TEMP_5 Pin=J5-4
+Removed Pin From Net: NetName=TEMP_1 Pin=J5-21
+Removed Pin From Net: NetName=TEMP_2 Pin=J5-22
+Removed Pin From Net: NetName=TEMP_3 Pin=J5-23
+Removed Pin From Net: NetName=TEMP_4 Pin=J5-24
+Change Component Designator: OldDesignator=JP11 NewDesignator=JP12
+Change Component Designator: OldDesignator=JP12 NewDesignator=JP11
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Added Pin To Net: NetName=TEMP_4 Pin=J5-1
+Added Pin To Net: NetName=TEMP_1 Pin=J5-2
+Added Pin To Net: NetName=TEMP_2 Pin=J5-3
+Added Pin To Net: NetName=TEMP_3 Pin=J5-4
+Added Pin To Net: NetName=TEMP_5 Pin=J5-21
+Added Pin To Net: NetName=TEMP_7 Pin=J5-22
+Added Pin To Net: NetName=TEMP_8 Pin=J5-23
+Added Pin To Net: NetName=TEMP_6 Pin=J5-24
+Added Member To Class: ClassName=root Member=Component JP1 Testpoint2

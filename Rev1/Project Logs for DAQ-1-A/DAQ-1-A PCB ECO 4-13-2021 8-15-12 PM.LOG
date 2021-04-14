@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SHOCK_S1_PI Pin=R12-1
+Removed Pin From Net: NetName=SHOCK_S0_PI Pin=R13-1
+Added Pin To Net: NetName=SHOCK_S0_PI Pin=R12-1
+Added Pin To Net: NetName=SHOCK_S1_PI Pin=R13-1
+Added Member To Class: ClassName=RPI Member=Wire SCL_PI

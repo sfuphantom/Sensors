@@ -1,10 +1,10 @@
 Output: Generates pick and place files
 Type  : Pick Place
-From  : Variant [[No Variations]] of PCB Document [DAQ_1.PcbDoc]
-   Generated File[Pick Place for DAQ_1.txt]
+From  : Variant [[No Variations]] of PCB Document [DAQ-1-A.PcbDoc]
+   Generated File[Pick Place for DAQ-1-A.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:22:14 PM On 2/13/2021
+Finished Output Generation At 11:41:44 PM On 4/13/2021

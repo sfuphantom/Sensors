@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TEMP_8 Pin=J5-23
+Removed Pin From Net: NetName=TEMP_6 Pin=J5-24
+Removed Pin From Net: NetName=TEMP_8 Pin=U2-4
+Added Pin To Net: NetName=TEMP_6 Pin=J5-23
+Added Pin To Net: NetName=TEMP_8 Pin=J5-24

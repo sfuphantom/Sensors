@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=SHOCK_2 Pin=J6-1
+Removed Pin From Net: NetName=SHOCK_1 Pin=J6-2
+Removed Pin From Net: NetName=SHOCK_4 Pin=J6-11
+Removed Pin From Net: NetName=SHOCK_3 Pin=J6-12
+Removed Pin From Net: NetName=SDA_PI Pin=R7-2
+Removed Pin From Net: NetName=SDA Pin=U5-9
+Removed Pin From Net: NetName=SCL Pin=U5-10
+Removed Member From Class: ClassName=root Member=D3
+Removed Member From Class: ClassName=root Member=R7
+Added Pin To Net: NetName=SHOCK_1 Pin=J6-1
+Added Pin To Net: NetName=SHOCK_4 Pin=J6-2
+Added Pin To Net: NetName=SHOCK_3 Pin=J6-11
+Added Pin To Net: NetName=SHOCK_2 Pin=J6-12
+Added Pin To Net: NetName=SCL Pin=U5-9
+Added Pin To Net: NetName=SDA Pin=U5-10
+Change Net Name : Old Net Name=SCL New Net Name=SDA
+Change Net Name : Old Net Name=SCL_PI New Net Name=SDA_PI
+Change Net Name : Old Net Name=SDA New Net Name=SCL
+Change Net Name : Old Net Name=SDA_PI New Net Name=SCL_PI
+Added Member To Class: ClassName=root Member=Component C7 0.1uF
+Added Member To Class: ClassName=root Member=Component JP6 Testpoint2
+Added Member To Class: ClassName=root Member=Component JP8 Testpoint2
+Added Member To Class: ClassName=root Member=Component U5 ADS1115IDGSR
