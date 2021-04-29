@@ -2,10 +2,43 @@
 FileName = DAQ-1-A.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Solder
-      File : DAQ-1-A.GTS
+Generating : Bottom Paste
+      File : DAQ-1-A.GBP
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DAQ-1-A.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DAQ-1-A.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -13,23 +46,18 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
 *************************************************************
 
 *************************************************************
@@ -57,14 +85,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : DAQ-1-A.GKO
+Generating : Bottom Layer
+      File : DAQ-1-A.GBL
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D59
+    D13
+    D47
+    D48
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
 *************************************************************
 
 *************************************************************
@@ -101,27 +139,57 @@ Used DCodes :
     D55
     D56
     D57
-    D58
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : DAQ-1-A.GBL
+Generating : Mechanical 3
+      File : DAQ-1-A.GM3
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DAQ-1-A.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D47
-    D48
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : DAQ-1-A.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
     D58
 *************************************************************
 
@@ -141,74 +209,5 @@ Used DCodes :
     D15
     D16
     D17
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : DAQ-1-A.GM3
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : DAQ-1-A.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D42
-    D43
-    D44
-    D45
-    D46
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : DAQ-1-A.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : DAQ-1-A.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
 *************************************************************
 

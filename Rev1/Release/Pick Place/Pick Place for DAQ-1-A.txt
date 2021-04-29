@@ -4,9 +4,9 @@ C:\Users\Gaming\Documents\TeamPhantom\Sensors\Rev1\Release\Pick Place\Pick Place
 ========================================================================================================================
 File Design Information:
 
-Date:       13/04/21
-Time:       23:41
-Revision:   bbeb9375e4e3593f9019345faa500ed4ab8c9efe
+Date:       29/04/21
+Time:       00:57
+Revision:   32674b56ce490cbf049d0078db8532c35ffbd451
 Variant:    No variations
 Units used: mil
 
@@ -29,10 +29,10 @@ R11        665R            TopLayer RES-0603            843.307       3168.504  
 R9         665R            TopLayer RES-0603            843.307       3227.559      180      "RES SMD 665 OHM 1% 1/10W 0603"                                                                                                     
 R8         665R            TopLayer RES-0603            843.307       3284.646      180      "RES SMD 665 OHM 1% 1/10W 0603"                                                                                                     
 R7         665R            TopLayer RES-0603            843.307       3341.732      180      "RES SMD 665 OHM 1% 1/10W 0603"                                                                                                     
-R6         665R            TopLayer RES-0603            843.307       3399.213      180      "RES SMD 665 OHM 1% 1/10W 0603"                                                                                                     
-R5         665R            TopLayer RES-0603            843.307       3456.299      180      "RES SMD 665 OHM 1% 1/10W 0603"                                                                                                     
-R4         5K              TopLayer RES-0603            814.567       3604.921      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
-R3         5K              TopLayer RES-0603            872.441       3604.921      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
+R6         665R            TopLayer RES-0603            842.988       3559.913      180      "RES SMD 665 OHM 1% 1/10W 0603"                                                                                                     
+R5         665R            TopLayer RES-0603            842.988       3617.000      180      "RES SMD 665 OHM 1% 1/10W 0603"                                                                                                     
+R4         5K              TopLayer RES-0603            843.012       3399.626      180      "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
+R3         5K              TopLayer RES-0603            843.012       3502.500      180      "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 R2         665R            TopLayer RES-0603            1378.614      3966.024      180      "RES SMD 665 OHM 1% 1/10W 0603"                                                                                                     
 R1         665R            TopLayer RES-0603            1379.008      4023.937      360      "RES SMD 665 OHM 1% 1/10W 0603"                                                                                                     
 J1         WM11594-ND      TopLayer 2X2PIN              435.236       500.000       270      "CONN HEADER R/A 4POS 3.5MM"                                                                                                        
@@ -41,7 +41,7 @@ D2         Red             TopLayer LED-0603            1494.756      3966.024  
 D1         Green           TopLayer LED-0603            1495.149      4025.905      180      "LED GREEN CLEAR 0603 SMD"                                                                                                          
 C1         1uF             TopLayer CAP-0603            829.500       3883.000      180      "CAP CER 1UF 16V X7R 0603"                                                                                                          
 C3         1uF             TopLayer CAP-0603            1207.071      3906.488      180      "CAP CER 1UF 16V X7R 0603"                                                                                                          
-C2         1uF             TopLayer CAP-0603            1175.181      4304.520      180      "CAP CER 1UF 16V X7R 0603"                                                                                                          
+C2         1uF             TopLayer CAP-0603            1116.520      4304.264      180      "CAP CER 1UF 16V X7R 0603"                                                                                                          
 R21        5K              TopLayer RES-0603            1133.858      2914.370      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 JP11       Testpoint2      TopLayer TP2                 1035.433      2677.953      90       "Single layer pad TP"                                                                                                               
 C6         0.1uF           TopLayer CAP-0603            1096.220      2340.157      270      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
