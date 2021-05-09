@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DAQ-1-A.PrjPcb]
+   Generated File[DAQ-1-A.TXT]
+   Generated File[DAQ-1-A.LDP]
+   Generated File[DAQ-1-A.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:20:06 PM On 2021-05-08
