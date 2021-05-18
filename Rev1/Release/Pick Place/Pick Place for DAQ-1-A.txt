@@ -4,16 +4,16 @@ C:\Users\Gaming\Documents\TeamPhantom\Sensors\Rev1\Release\Pick Place\Pick Place
 ========================================================================================================================
 File Design Information:
 
-Date:       29/04/21
-Time:       00:57
-Revision:   32674b56ce490cbf049d0078db8532c35ffbd451
+Date:       18/05/21
+Time:       13:49
+Revision:   fd295223cdf297634a1267c26c05c13b617add32
 Variant:    No variations
 Units used: mil
 
 Designator Comment         Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                         
 JP13       Testpoint2      TopLayer TP2                 899.500       1341.500      0        "Single layer pad TP"                                                                                                               
 JP1        Testpoint2      TopLayer TP2                 925.197       3779.528      90       "Single layer pad TP"                                                                                                               
-U5         ADS1115IDGSR    TopLayer VSSOP50P310X310-10P 1059.929      1669.968      270      "TEXAS INSTRUMENTS - ADS1115IDGSR . - Analogue to Digital Converter, 16 bit, 860 SPS, Differential, Single Ended, I2C, Single, 2 V" 
+U5         ADS1115IDGST    TopLayer VSSOP50P310X310-10P 1059.929      1669.968      270      "TEXAS INSTRUMENTS - ADS1115IDGST . - Analogue to Digital Converter, 16 bit, 860 SPS, Differential, Single Ended, I2C, Single, 2 V" 
 C7         0.1uF           TopLayer CAP-0603            1006.000      1513.000      360      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
 J6         WM8263-ND       TopLayer 2X6PIN              466.535       2461.417      270      "CONN HEADER R/A 12POS 2.54MM"                                                                                                      
 JP8        Testpoint2      TopLayer TP2                 1215.748      2677.953      90       "Single layer pad TP"                                                                                                               
