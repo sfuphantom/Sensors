@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SET/RESET Pin=JP1-1
+Removed Pin From Net: NetName=13V2_OUT Pin=JP1-2
+Removed Pin From Net: NetName=13V2_IN Pin=JP1-3
+Removed Pin From Net: NetName=GND Pin=JP2-1
+Removed Pin From Net: NetName=5V_IN Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=SET/RESET Pin=JP1-2
+Added Pin To Net: NetName=5V_IN Pin=JP1-3
+Added Pin To Net: NetName=13V2_OUT Pin=JP2-1
+Added Pin To Net: NetName=13V2_IN Pin=JP2-2

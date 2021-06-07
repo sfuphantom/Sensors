@@ -1,0 +1,6 @@
+Added Component: Designator=JP1(3PIN-JP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(3PIN-JP)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=BOTS Member=Component JP1 732-5316-ND
+Added Member To Class: ClassName=BOTS Member=Component JP2 732-5316-ND
