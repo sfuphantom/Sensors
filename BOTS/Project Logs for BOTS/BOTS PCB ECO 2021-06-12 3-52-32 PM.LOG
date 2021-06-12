@@ -1,0 +1,11 @@
+Added Component: Designator=J1(2PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(3PIN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=13V2_IN Pin=J1-1
+Added Pin To Net: NetName=13V2_OUT Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=SET/RESET Pin=J2-2
+Added Pin To Net: NetName=5V_IN Pin=J2-3
+Added Member To Class: ClassName=BOTS Member=Component J1 2PIN
+Added Member To Class: ClassName=BOTS Member=Component J2 3PIN

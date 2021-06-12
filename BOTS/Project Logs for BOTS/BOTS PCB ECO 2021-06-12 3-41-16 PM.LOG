@@ -1,0 +1,6 @@
+Added Component: Designator=*(2PIN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=13V2_OUT Pin=*-1
+Added Pin To Net: NetName=13V2_IN Pin=*-2
+Added Member To Class: ClassName=BOTS Member=Component * Hercules Launchpad
+Added Member To Class: ClassName=BOTS Member=Component D2 Green
