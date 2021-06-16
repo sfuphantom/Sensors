@@ -2,45 +2,6 @@
 FileName = TMP-1-A.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : TMP-1-A.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : TMP-1-A.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : TMP-1-A.GTL
 
@@ -66,10 +27,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : TMP-1-A.GTO
+Generating : Bottom Overlay
+      File : TMP-1-A.GBO
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
@@ -102,6 +63,52 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Paste
+      File : TMP-1-A.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : TMP-1-A.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : TMP-1-A.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
 Generating : BOARD_OUTLINE
       File : TMP-1-A.GM3
 
@@ -109,7 +116,7 @@ Generating : BOARD_OUTLINE
 
 
 Used DCodes :
-    D28
+    D29
 *************************************************************
 
 *************************************************************
@@ -124,33 +131,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : TMP-1-A.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : TMP-1-A.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : TMP-1-A.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Layer
+      File : TMP-1-A.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -158,6 +140,13 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
 *************************************************************
 
 *************************************************************
@@ -176,5 +165,16 @@ Used DCodes :
     D25
     D26
     D27
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : TMP-1-A.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D35
 *************************************************************
 
