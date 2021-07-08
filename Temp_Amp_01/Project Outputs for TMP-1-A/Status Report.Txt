@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [TMP-1-A.PcbDoc]
+   Generated File[TMP-1-A.GTO]
+   Generated File[TMP-1-A.GTP]
+   Generated File[TMP-1-A.GTS]
+   Generated File[TMP-1-A.GTL]
+   Generated File[TMP-1-A.GBL]
+   Generated File[TMP-1-A.GBS]
+   Generated File[TMP-1-A.GBP]
+   Generated File[TMP-1-A.GBO]
+   Generated File[TMP-1-A.GM2]
+   Generated File[TMP-1-A.GM3]
+   Generated File[TMP-1-A.GKO]
+   Generated File[TMP-1-A.RUL]
+   Generated File[TMP-1-A.EXTREP]
+   Generated File[TMP-1-A.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 10:54:51 PM On 2021-07-07
