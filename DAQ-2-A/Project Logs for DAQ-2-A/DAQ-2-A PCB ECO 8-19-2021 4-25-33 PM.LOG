@@ -1,0 +1,19 @@
+Added Component: Designator=MH1(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH2(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH3(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH4(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
+Added Member To Class: ClassName=Connectors Member=Component J9 WM4153-ND
+Added Member To Class: ClassName=DAQ-MUX Member=Component JP16 Testpoint2
+Added Member To Class: ClassName=root Member=Component MH1 MountingHole
+Added Member To Class: ClassName=root Member=Component MH2 MountingHole
+Added Member To Class: ClassName=root Member=Component MH3 MountingHole
+Added Member To Class: ClassName=root Member=Component MH4 MountingHole
+Added Member To Class: ClassName=Connectors Member=Component R26 665R

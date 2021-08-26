@@ -1,0 +1,43 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change Component Designator: OldDesignator=J? NewDesignator=J14
+Change Component Designator: OldDesignator=J? NewDesignator=J15
+Change Component Designator: OldDesignator=J? NewDesignator=J18
+Change Component Designator: OldDesignator=J? NewDesignator=J19
+Change Component Designator: OldDesignator=J? NewDesignator=J20
+Change Component Designator: OldDesignator=J? NewDesignator=J23
+Change Component Designator: OldDesignator=J? NewDesignator=J24
+Change Component Designator: OldDesignator=J? NewDesignator=J25
+Change Component Designator: OldDesignator=J? NewDesignator=J28
+Change Component Designator: OldDesignator=J? NewDesignator=J29
+Change Component Designator: OldDesignator=J? NewDesignator=J30
+Added Component: Designator=J16(1X3_1.25MM)
+Added Component: Designator=J17(1X3_1.25MM)
+Added Component: Designator=J21(1X3_1.25MM)
+Added Component: Designator=J22(1X3_1.25MM)
+Added Component: Designator=J26(1X3_1.25MM)
+Added Component: Designator=J27(1X3_1.25MM)
+Added Component: Designator=J31(1X3_1.25MM)
+Added Component: Designator=J32(1X3_1.25MM)
+Added Member To Class: ClassName=Connectors Member=Component J10 10127720-041LF
+Added Member To Class: ClassName=Connectors Member=Component J13 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J14 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J15 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J16 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J17 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J18 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J19 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J20 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J21 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J22 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J23 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J24 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J25 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J26 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J27 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J28 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J29 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J30 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J31 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J32 WM1743-ND

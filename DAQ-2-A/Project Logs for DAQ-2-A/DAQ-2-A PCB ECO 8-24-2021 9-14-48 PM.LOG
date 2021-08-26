@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=TEMP_4 Pin=J11-1
+Removed Pin From Net: NetName=TEMP_1 Pin=J11-2
+Removed Pin From Net: NetName=TEMP_2 Pin=J11-3
+Removed Pin From Net: NetName=TEMP_3 Pin=J11-4
+Removed Pin From Net: NetName=GND Pin=J11-5
+Removed Pin From Net: NetName=GND Pin=J11-6
+Removed Pin From Net: NetName=GND Pin=J11-7
+Removed Pin From Net: NetName=GND Pin=J11-8
+Removed Pin From Net: NetName=D+5V Pin=J11-9
+Removed Pin From Net: NetName=D+5V Pin=J11-10
+Removed Pin From Net: NetName=D+5V Pin=J11-11
+Removed Pin From Net: NetName=D+5V Pin=J11-12
+Removed Pin From Net: NetName=D+5V Pin=J11-13
+Removed Pin From Net: NetName=D+5V Pin=J11-14
+Removed Pin From Net: NetName=D+5V Pin=J11-15
+Removed Pin From Net: NetName=D+5V Pin=J11-16
+Removed Pin From Net: NetName=GND Pin=J11-17
+Removed Pin From Net: NetName=GND Pin=J11-18
+Removed Pin From Net: NetName=GND Pin=J11-19
+Removed Pin From Net: NetName=GND Pin=J11-20
+Removed Pin From Net: NetName=TEMP_7 Pin=J11-21
+Removed Pin From Net: NetName=TEMP_5 Pin=J11-22
+Removed Pin From Net: NetName=TEMP_8 Pin=J11-23
+Removed Pin From Net: NetName=TEMP_6 Pin=J11-24
+Removed Pin From Net: NetName=SHOCK_1 Pin=J12-1
+Removed Pin From Net: NetName=SHOCK_4 Pin=J12-2
+Removed Pin From Net: NetName=GND Pin=J12-3
+Removed Pin From Net: NetName=GND Pin=J12-4
+Removed Pin From Net: NetName=D+5V Pin=J12-5
+Removed Pin From Net: NetName=D+5V Pin=J12-6
+Removed Pin From Net: NetName=D+5V Pin=J12-7
+Removed Pin From Net: NetName=D+5V Pin=J12-8
+Removed Pin From Net: NetName=GND Pin=J12-9
+Removed Pin From Net: NetName=GND Pin=J12-10
+Removed Pin From Net: NetName=SHOCK_3 Pin=J12-11
+Removed Pin From Net: NetName=SHOCK_2 Pin=J12-12
+Change Component Footprint: Designator=J12 Old Footprint=2X6PIN New Footprint=1X3_1.25MM
+Change Component Footprint: Designator=J11 Old Footprint=2X12PIN New Footprint=1X3_1.25MM
+Change Component Comment : Designator=J11 Old Comment=H2875-ND New Comment=WM1743-ND
+Change Component Comment : Designator=J12 Old Comment=WM8263-ND New Comment=WM1743-ND
+Change component parameters: Designator = "J11" ("J11"); Footprint = "2X12PIN"; UniqueID = "\SWTCBZUN" ("\SWTCBZUN")
+Change component parameters: Designator = "J12" ("J12"); Footprint = "2X6PIN"; UniqueID = "\WXLGSRSH" ("\WXLGSRSH")
+Added Component: Designator=J33(1X3_1.25MM)
+Added Component: Designator=J34(1X3_1.25MM)
+Added Member To Class: ClassName=Connectors Member=Component J8 10127720-041LF
+Added Member To Class: ClassName=Connectors Member=Component J33 WM1743-ND
+Added Member To Class: ClassName=Connectors Member=Component J34 WM1743-ND

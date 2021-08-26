@@ -1,0 +1,7 @@
+Added Component: Designator=MH?(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MH?-1
+Added Member To Class: ClassName=root Member=Component MH? MountingHole
+Added Member To Class: ClassName=root Member=Component MH? MountingHole
+Added Member To Class: ClassName=root Member=Component MH? MountingHole
+Added Member To Class: ClassName=root Member=Component MH? MountingHole

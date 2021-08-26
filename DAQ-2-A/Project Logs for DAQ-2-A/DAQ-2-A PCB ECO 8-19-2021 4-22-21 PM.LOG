@@ -1,0 +1,86 @@
+Removed Member From Class: ClassName=Connectors Member=C?
+Removed Member From Class: ClassName=Connectors Member=JP?
+Removed Member From Class: ClassName=RPI Member=NetJ?_1
+Removed Member From Class: ClassName=RPI Member=NetJ?_2
+Removed Member From Class: ClassName=RPI Member=NetJ?_5
+Removed Member From Class: ClassName=RPI Member=NetJ?_6
+Removed Member From Class: ClassName=RPI Member=NetJ?_7
+Removed Member From Class: ClassName=RPI Member=NetJ?_8
+Removed Member From Class: ClassName=RPI Member=NetJ?_9
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=JP? NewDesignator=JP14
+Change Component Designator: OldDesignator=JP? NewDesignator=JP15
+Change Component Designator: OldDesignator=JP? NewDesignator=JP16
+Change Component Designator: OldDesignator=JP? NewDesignator=JP17
+Change Component Designator: OldDesignator=JP? NewDesignator=JP18
+Change Component Designator: OldDesignator=JP? NewDesignator=JP19
+Change Component Designator: OldDesignator=JP? NewDesignator=JP20
+Change Component Designator: OldDesignator=JP? NewDesignator=JP21
+Change Component Designator: OldDesignator=JP? NewDesignator=JP22
+Change Component Designator: OldDesignator=JP? NewDesignator=JP23
+Change Component Designator: OldDesignator=JP? NewDesignator=JP24
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ8_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ8_2
+Change Net Name : Old Net Name=NetJ?_5 New Net Name=NetJ8_5
+Change Net Name : Old Net Name=NetJ?_6 New Net Name=NetJ8_6
+Change Net Name : Old Net Name=NetJ?_7 New Net Name=NetJ8_7
+Change Net Name : Old Net Name=NetJ?_8 New Net Name=NetJ8_8
+Change Net Name : Old Net Name=NetJ?_9 New Net Name=NetJ8_9
+Added Member To Class: ClassName=DAQ-MUX Member=Component C8 0.1uF
+Added Member To Class: ClassName=DAQ-MUX Member=Component C10 0.1uF
+Added Member To Class: ClassName=Connectors Member=Component C11 1uF
+Added Member To Class: ClassName=Connectors Member=Component J7 WM11594-ND
+Added Member To Class: ClassName=Connectors Member=Component J8 WM4907-ND
+Added Member To Class: ClassName=Connectors Member=Component J10 WM11594-ND
+Added Member To Class: ClassName=Connectors Member=Component J11 H2875-ND
+Added Member To Class: ClassName=Connectors Member=Component J12 WM8263-ND
+Added Member To Class: ClassName=DAQ-MUX Member=Component JP14 Testpoint2
+Added Member To Class: ClassName=DAQ-MUX Member=Component JP15 Testpoint2
+Added Member To Class: ClassName=DAQ-MUX Member=Component JP17 Testpoint2
+Added Member To Class: ClassName=DAQ-MUX Member=Component JP18 Testpoint2
+Added Member To Class: ClassName=Connectors Member=Component JP19 Testpoint2
+Added Member To Class: ClassName=Connectors Member=Component JP20 Testpoint2
+Added Member To Class: ClassName=Connectors Member=Component JP21 Testpoint2
+Added Member To Class: ClassName=Connectors Member=Component JP22 Testpoint2
+Added Member To Class: ClassName=Connectors Member=Component JP23 Testpoint2
+Added Member To Class: ClassName=Connectors Member=Component JP24 Testpoint2
+Added Member To Class: ClassName=Connectors Member=Component R22 5K
+Added Member To Class: ClassName=Connectors Member=Component R23 5K
+Added Member To Class: ClassName=Connectors Member=Component R24 665R
+Added Member To Class: ClassName=Connectors Member=Component R25 665R
+Added Member To Class: ClassName=Connectors Member=Component R27 665R
+Added Member To Class: ClassName=Connectors Member=Component R28 665R
+Added Member To Class: ClassName=Connectors Member=Component R29 665R
+Added Member To Class: ClassName=Connectors Member=Component R30 665R
+Added Member To Class: ClassName=DAQ-MUX Member=Component U7 296-37427-1-ND
+Added Member To Class: ClassName=DAQ-MUX Member=Component U8 296-37427-1-ND
+Added Member To Class: ClassName=RPI Member=Wire NetJ8_1
+Added Member To Class: ClassName=RPI Member=Wire NetJ8_2
+Added Member To Class: ClassName=RPI Member=Wire NetJ8_5
+Added Member To Class: ClassName=RPI Member=Wire NetJ8_6
+Added Member To Class: ClassName=RPI Member=Wire NetJ8_7
+Added Member To Class: ClassName=RPI Member=Wire NetJ8_8
+Added Member To Class: ClassName=RPI Member=Wire NetJ8_9
+Added Room: Name=Connectors
+Added Room: Name=DAQ-MUX

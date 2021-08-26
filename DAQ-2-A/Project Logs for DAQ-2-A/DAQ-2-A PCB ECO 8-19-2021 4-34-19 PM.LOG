@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=MH1-1
+Removed Pin From Net: NetName=GND Pin=MH2-1
+Removed Pin From Net: NetName=GND Pin=MH3-1
+Removed Pin From Net: NetName=GND Pin=MH4-1
+Removed Member From Class: ClassName=root Member=MH1
+Removed Member From Class: ClassName=root Member=MH2
+Removed Member From Class: ClassName=root Member=MH3
+Removed Member From Class: ClassName=root Member=MH4
+Added Component: Designator=MH?(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH?(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH?(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH?(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MH?-1
+Added Pin To Net: NetName=GND Pin=MH?-1
+Added Pin To Net: NetName=GND Pin=MH?-1
+Added Pin To Net: NetName=GND Pin=MH?-1
+Added Member To Class: ClassName=root Member=Component MH? MountingHole
+Added Member To Class: ClassName=root Member=Component MH? MountingHole
+Added Member To Class: ClassName=root Member=Component MH? MountingHole
+Added Member To Class: ClassName=root Member=Component MH? MountingHole
