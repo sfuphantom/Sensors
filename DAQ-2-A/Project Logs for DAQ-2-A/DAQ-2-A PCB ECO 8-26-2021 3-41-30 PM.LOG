@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=D+5V Pin=J8-1
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Pin From Net: NetName=TX Pin=J8-3
+Removed Pin From Net: NetName=RX Pin=J8-4
+Removed Pin From Net: NetName=TX Pin=JP21-1
+Removed Pin From Net: NetName=RX Pin=JP22-1
+Removed Member From Class: ClassName=Connectors Member=J8
+Removed Member From Class: ClassName=Connectors Member=JP21
+Removed Member From Class: ClassName=Connectors Member=JP22
+Added Component: Designator=J?(1X3_1.25MM)
+Added Member To Class: ClassName=Connectors Member=Component J? WM1743-ND
