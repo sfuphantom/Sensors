@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=D+5V Pin=J28-1
+Removed Pin From Net: NetName=GND Pin=J28-2
+Added Pin To Net: NetName=SCL Pin=J3-3
+Added Pin To Net: NetName=SDA Pin=J3-4
+Added Pin To Net: NetName=SCL Pin=JP11-1
+Added Pin To Net: NetName=SDA Pin=JP12-1
+Added Member To Class: ClassName=U_Connectors Member=Component C10 1uF
+Added Member To Class: ClassName=U_Connectors Member=Component J1 61304021121
+Added Member To Class: ClassName=U_Connectors Member=Component J2 WM4153-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J3 WM1744-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J4 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J5 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J6 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J7 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J8 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J9 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J10 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J11 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J12 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J13 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J14 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J15 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J16 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J17 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J18 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J19 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J20 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J21 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J22 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J23 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J24 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J25 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J26 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J27 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component JP9 Testpoint2
+Added Member To Class: ClassName=U_Connectors Member=Component JP10 Testpoint2
+Added Member To Class: ClassName=U_Connectors Member=Component JP11 Testpoint2
+Added Member To Class: ClassName=U_Connectors Member=Component JP12 Testpoint2
+Added Member To Class: ClassName=U_Connectors Member=Component R12 5K
+Added Member To Class: ClassName=U_Connectors Member=Component R13 5K

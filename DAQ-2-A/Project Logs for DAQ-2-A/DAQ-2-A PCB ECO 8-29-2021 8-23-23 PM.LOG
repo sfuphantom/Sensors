@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=D+5V Pin=C10-2
+Removed Pin From Net: NetName=D+5V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=D+5V Pin=J2-2
+Removed Pin From Net: NetName=D+5V Pin=J3-2
+Removed Pin From Net: NetName=D+5V Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Pin From Net: NetName=GND Pin=J3-9
+Removed Pin From Net: NetName=GND Pin=J3-14
+Removed Pin From Net: NetName=GND Pin=J3-25
+Removed Pin From Net: NetName=GND Pin=J3-30
+Removed Pin From Net: NetName=GND Pin=J3-34
+Removed Pin From Net: NetName=GND Pin=J3-39
+Removed Pin From Net: NetName=D+5V Pin=JP9-1
+Removed Pin From Net: NetName=GND Pin=JP11-1
+Removed Pin From Net: NetName=D+5V Pin=R12-2
+Removed Pin From Net: NetName=D+5V Pin=R13-2
+Removed Member From Class: ClassName=PWR Member=D+5V
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Net: Name=NetU1_6
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Net: Name=NetU1_8
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Net: Name=NetU1_10
+Change Class Name : Old Net Name=U_ADC New Net Name=U_ADC_Level
