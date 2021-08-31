@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetJ15_3 Pin=J16-3
+Removed Pin From Net: NetName=NetJ15_3 Pin=J23-3
+Change Component Footprint: Designator=MH2 Old Footprint=MH4.2MM New Footprint=MH2.7MM
+Change Component Footprint: Designator=MH3 Old Footprint=MH4.2MM New Footprint=MH2.7MM
+Change Component Footprint: Designator=MH4 Old Footprint=MH4.2MM New Footprint=MH2.7MM
+Added Pin To Net: NetName=NetJ16_3 Pin=J16-3
+Added Pin To Net: NetName=NetJ16_3 Pin=U3-1
+Added Net: Name=NetJ16_3
+Added Pin To Net: NetName=NetJ23_3 Pin=J23-3
+Added Pin To Net: NetName=NetJ23_3 Pin=U3-5
+Added Net: Name=NetJ23_3
