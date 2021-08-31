@@ -1,0 +1,5 @@
+Added Component: Designator=J11(1X3_1.25MM)
+Added Pin To Net: NetName=D+5V Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=NetJ11_3 Pin=J11-3
+Added Member To Class: ClassName=U_Connectors Member=Component J11 WM1743-ND

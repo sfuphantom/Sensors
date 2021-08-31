@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=J16 NewDesignator=J17
+Change Component Designator: OldDesignator=J17 NewDesignator=J18
+Change Component Designator: OldDesignator=J18 NewDesignator=J19
+Change Component Designator: OldDesignator=J19 NewDesignator=J20
+Change Component Designator: OldDesignator=J20 NewDesignator=J21
+Change Component Designator: OldDesignator=J21 NewDesignator=J22
+Change Component Designator: OldDesignator=J22 NewDesignator=J24
+Change Component Designator: OldDesignator=J23 NewDesignator=J25
+Change Component Designator: OldDesignator=J24 NewDesignator=J26
+Change Component Designator: OldDesignator=J25 NewDesignator=J27
+Change Component Designator: OldDesignator=J26 NewDesignator=J28
+Change Component Designator: OldDesignator=J27 NewDesignator=J29
+Added Component: Designator=J16(1X3_1.25MM)
+Added Component: Designator=J23(1X3_1.25MM)
+Added Pin To Net: NetName=D+5V Pin=J16-1
+Added Pin To Net: NetName=GND Pin=J16-2
+Added Pin To Net: NetName=NetJ15_3 Pin=J16-3
+Added Pin To Net: NetName=D+5V Pin=J23-1
+Added Pin To Net: NetName=GND Pin=J23-2
+Added Pin To Net: NetName=NetJ15_3 Pin=J23-3
+Change Net Name : Old Net Name=NetJ18_3 New Net Name=NetJ19_3
+Change Net Name : Old Net Name=NetJ19_3 New Net Name=NetJ20_3
+Change Net Name : Old Net Name=NetJ20_3 New Net Name=NetJ21_3
+Change Net Name : Old Net Name=NetJ21_3 New Net Name=NetJ22_3
+Change Net Name : Old Net Name=NetJ24_3 New Net Name=NetJ26_3
+Change Net Name : Old Net Name=NetJ25_3 New Net Name=NetJ27_3
+Change Net Name : Old Net Name=NetJ26_3 New Net Name=NetJ28_3
+Change Net Name : Old Net Name=NetJ27_3 New Net Name=NetJ29_3
+Added Member To Class: ClassName=U_Connectors Member=Component J28 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J29 WM1743-ND
