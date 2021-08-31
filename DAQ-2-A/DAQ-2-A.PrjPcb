@@ -293,23 +293,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QOQHVVZE
 
 [Document16]
-DocumentPath=New_Parts.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XKFBQBFM
-
-[Document17]
 DocumentPath=root.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,8 +309,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUXSRZFW
 
-[Document18]
-DocumentPath=ADC.SchDoc
+[Document17]
+DocumentPath=ADC_Level.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYZKYBIG
 
-[Document19]
+[Document18]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,6 +342,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHZJJLBP
+
+[Document19]
+DocumentPath=New_Parts.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XKFBQBFM
 
 [GeneratedDocument1]
 DocumentPath=Release\BOM\Bill of Materials-DAQ-1-A.xlsx
@@ -581,14 +581,18 @@ DocumentPath=Project Outputs for DAQ-1-A\Design Rule Check - DAQ-1-A.html
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for DAQ_1\Design Rule Check - DAQ_1.html
+DocumentPath=Project Outputs for DAQ-2-A\Design Rule Check - DAQ-2-A.html
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Release\Pick Place\Pick Place for DAQ-1-A.txt
+DocumentPath=Project Outputs for DAQ_1\Design Rule Check - DAQ_1.html
 DItemRevisionGUID=
 
 [GeneratedDocument58]
+DocumentPath=Release\Pick Place\Pick Place for DAQ-1-A.txt
+DItemRevisionGUID=
+
+[GeneratedDocument59]
 DocumentPath=Release\Pick Place\Pick Place for DAQ_1.txt
 DItemRevisionGUID=
 
@@ -1228,7 +1232,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1
