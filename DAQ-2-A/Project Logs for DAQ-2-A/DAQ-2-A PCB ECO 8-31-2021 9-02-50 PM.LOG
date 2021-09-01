@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=DOUT1 Pin=J1-13
+Removed Pin From Net: NetName=DOUT2 Pin=J1-15
+Removed Pin From Net: NetName=DOUT3 Pin=J1-17
+Removed Pin From Net: NetName=DOUT4 Pin=J1-19
+Change Component Footprint: Designator=J3 Old Footprint=1X4_1.25MM New Footprint=1X5_1.25MM
+Change component parameters: Designator = "J3" ("J3"); Footprint = "1X4_1.25MM"; UniqueID = "\HSGTUDNO\ZLPXMDKE" ("\HSGTUDNO\ZLPXMDKE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM1745-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DOUT1 Pin=J1-17
+Added Pin To Net: NetName=DOUT2 Pin=J1-26
+Added Pin To Net: NetName=DOUT3 Pin=J1-29
+Added Pin To Net: NetName=DOUT4 Pin=J1-32
+Added Pin To Net: NetName=SHTDWN Pin=J1-36
+Added Pin To Net: NetName=SHTDWN Pin=J3-5
+Added Net: Name=SHTDWN
