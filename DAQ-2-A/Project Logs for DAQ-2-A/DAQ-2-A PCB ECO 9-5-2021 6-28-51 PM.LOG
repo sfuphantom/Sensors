@@ -1,0 +1,60 @@
+Removed Member From Class: ClassName=U_Connectors Member=J29
+Removed Member From Class: ClassName=U_Connectors Member=J30
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J4 NewDesignator=J7
+Change Component Designator: OldDesignator=J5 NewDesignator=J18
+Change Component Designator: OldDesignator=J6 NewDesignator=J13
+Change Component Designator: OldDesignator=J7 NewDesignator=J19
+Change Component Designator: OldDesignator=J8 NewDesignator=J20
+Change Component Designator: OldDesignator=J9 NewDesignator=J22
+Change Component Designator: OldDesignator=J10 NewDesignator=J4
+Change Component Designator: OldDesignator=J11 NewDesignator=J8
+Change Component Designator: OldDesignator=J12 NewDesignator=J10
+Change Component Designator: OldDesignator=J13 NewDesignator=J14
+Change Component Designator: OldDesignator=J14 NewDesignator=J21
+Change Component Designator: OldDesignator=J15 NewDesignator=J24
+Change Component Designator: OldDesignator=J16 NewDesignator=J25
+Change Component Designator: OldDesignator=J17 NewDesignator=J27
+Change Component Designator: OldDesignator=J18 NewDesignator=J5
+Change Component Designator: OldDesignator=J19 NewDesignator=J9
+Change Component Designator: OldDesignator=J20 NewDesignator=J11
+Change Component Designator: OldDesignator=J21 NewDesignator=J15
+Change Component Designator: OldDesignator=J24 NewDesignator=J26
+Change Component Designator: OldDesignator=J25 NewDesignator=J28
+Change Component Designator: OldDesignator=J27 NewDesignator=J6
+Change Component Designator: OldDesignator=J28 NewDesignator=J17
+Change Component Designator: OldDesignator=J29 NewDesignator=J12
+Change Component Designator: OldDesignator=J30 NewDesignator=J16
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ1_5 New Net Name=NetJ2_5
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=NetJ2_7
+Change Net Name : Old Net Name=NetJ1_8 New Net Name=NetJ2_8
+Change Net Name : Old Net Name=NetJ1_10 New Net Name=NetJ2_10
+Change Net Name : Old Net Name=NetJ1_11 New Net Name=NetJ2_11
+Change Net Name : Old Net Name=NetJ1_16 New Net Name=NetJ2_16
+Change Net Name : Old Net Name=NetJ1_20 New Net Name=NetJ2_20
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ7_3
+Change Net Name : Old Net Name=NetJ5_3 New Net Name=NetJ18_3
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=NetJ13_3
+Change Net Name : Old Net Name=NetJ7_3 New Net Name=NetJ19_3
+Change Net Name : Old Net Name=NetJ8_3 New Net Name=NetJ20_3
+Change Net Name : Old Net Name=NetJ9_3 New Net Name=NetJ22_3
+Change Net Name : Old Net Name=NetJ10_3 New Net Name=NetJ4_3
+Change Net Name : Old Net Name=NetJ11_3 New Net Name=NetJ8_3
+Change Net Name : Old Net Name=NetJ12_3 New Net Name=NetJ10_3
+Change Net Name : Old Net Name=NetJ13_3 New Net Name=NetJ14_3
+Change Net Name : Old Net Name=NetJ14_3 New Net Name=NetJ21_3
+Change Net Name : Old Net Name=NetJ15_3 New Net Name=NetJ24_3
+Change Net Name : Old Net Name=NetJ18_3 New Net Name=NetJ5_3
+Change Net Name : Old Net Name=NetJ19_3 New Net Name=NetJ9_3
+Change Net Name : Old Net Name=NetJ20_3 New Net Name=NetJ11_3
+Change Net Name : Old Net Name=NetJ21_3 New Net Name=NetJ15_3
+Change Net Name : Old Net Name=NetJ27_3 New Net Name=NetJ6_3
+Change Net Name : Old Net Name=NetJ28_3 New Net Name=NetJ17_3
+Change Net Name : Old Net Name=NetJ29_3 New Net Name=NetJ12_3
+Change Net Name : Old Net Name=NetJ30_3 New Net Name=NetJ16_3
+Added Member To Class: ClassName=U_Connectors Member=Component J22 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J26 WM1743-ND

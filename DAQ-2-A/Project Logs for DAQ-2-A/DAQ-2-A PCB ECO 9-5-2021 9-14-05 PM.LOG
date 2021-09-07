@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJ2_3 Pin=U1-3
+Removed Pin From Net: NetName=NetJ2_5 Pin=U1-4
+Removed Pin From Net: NetName=NetJ2_8 Pin=U1-7
+Added Pin To Net: NetName=NetJ2_3 Pin=U1-11
+Added Pin To Net: NetName=NetJ2_5 Pin=U1-12
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP5 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component U6 296-37427-1-ND

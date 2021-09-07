@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetJ21_3 Pin=U2-1
+Removed Pin From Net: NetName=NetJ22_3 Pin=U2-5
+Added Pin To Net: NetName=NetJ22_3 Pin=U2-1
+Added Pin To Net: NetName=NetJ21_3 Pin=U2-5
+Added Member To Class: ClassName=U_Connectors Member=Component J10 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J11 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J13 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J14 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J16 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J17 WM1743-ND

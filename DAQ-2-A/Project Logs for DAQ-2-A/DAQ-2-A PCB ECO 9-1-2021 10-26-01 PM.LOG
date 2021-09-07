@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=D+5V Pin=J?-1
+Removed Pin From Net: NetName=GND Pin=J?-2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=J8 NewDesignator=J7
+Change Component Designator: OldDesignator=J9 NewDesignator=J8
+Change Component Designator: OldDesignator=J10 NewDesignator=J9
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=J12 NewDesignator=J11
+Change Component Designator: OldDesignator=J13 NewDesignator=J12
+Change Component Designator: OldDesignator=J14 NewDesignator=J13
+Change Component Designator: OldDesignator=J15 NewDesignator=J14
+Change Component Designator: OldDesignator=J16 NewDesignator=J15
+Change Component Designator: OldDesignator=J17 NewDesignator=J16
+Change Component Designator: OldDesignator=J18 NewDesignator=J17
+Change Component Designator: OldDesignator=J19 NewDesignator=J18
+Change Component Designator: OldDesignator=J20 NewDesignator=J19
+Change Component Designator: OldDesignator=J21 NewDesignator=J20
+Change Component Designator: OldDesignator=J22 NewDesignator=J21
+Change Component Designator: OldDesignator=J26 NewDesignator=J27
+Change Component Designator: OldDesignator=J27 NewDesignator=J28
+Change Component Designator: OldDesignator=J28 NewDesignator=J29
+Change Component Designator: OldDesignator=J29 NewDesignator=J30
+Change Component Designator: OldDesignator=J? NewDesignator=J26
+Change Component Designator: OldDesignator=JP11 NewDesignator=JP9
+Change Component Designator: OldDesignator=JP12 NewDesignator=JP10
+Added Component: Designator=J2(1X6_1.25MM)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM1746-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J22(1X3_1.25MM)
+Added Pin To Net: NetName=GND Pin=J1-36
+Added Pin To Net: NetName=D+5V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=SCL Pin=J2-3
+Added Pin To Net: NetName=SDA Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=D+5V Pin=J22-1
+Added Pin To Net: NetName=GND Pin=J22-2
+Change Net Name : Old Net Name=GND New Net Name=SHTDWN
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ5_3 New Net Name=NetJ4_3
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=NetJ5_3
+Change Net Name : Old Net Name=NetJ7_3 New Net Name=NetJ6_3
+Change Net Name : Old Net Name=NetJ8_3 New Net Name=NetJ7_3
+Change Net Name : Old Net Name=NetJ9_3 New Net Name=NetJ8_3
+Change Net Name : Old Net Name=NetJ10_3 New Net Name=NetJ9_3
+Change Net Name : Old Net Name=NetJ11_3 New Net Name=NetJ10_3
+Change Net Name : Old Net Name=NetJ12_3 New Net Name=NetJ11_3
+Change Net Name : Old Net Name=NetJ13_3 New Net Name=NetJ12_3
+Change Net Name : Old Net Name=NetJ14_3 New Net Name=NetJ13_3
+Change Net Name : Old Net Name=NetJ15_3 New Net Name=NetJ14_3
+Change Net Name : Old Net Name=NetJ16_3 New Net Name=NetJ15_3
+Change Net Name : Old Net Name=NetJ19_3 New Net Name=NetJ18_3
+Change Net Name : Old Net Name=NetJ20_3 New Net Name=NetJ19_3
+Change Net Name : Old Net Name=NetJ21_3 New Net Name=NetJ20_3
+Change Net Name : Old Net Name=NetJ22_3 New Net Name=NetJ21_3
+Change Net Name : Old Net Name=NetJ26_3 New Net Name=NetJ27_3
+Change Net Name : Old Net Name=NetJ27_3 New Net Name=NetJ28_3
+Change Net Name : Old Net Name=NetJ28_3 New Net Name=NetJ29_3
+Change Net Name : Old Net Name=NetJ29_3 New Net Name=NetJ30_3
+Added Pin To Net: NetName=INTRPT Pin=J2-5
+Added Net: Name=INTRPT
+Added Pin To Net: NetName=NetJ22_3 Pin=J22-3
+Added Net: Name=NetJ22_3
+Added Pin To Net: NetName=NetJ26_3 Pin=J26-3
+Added Net: Name=NetJ26_3
+Added Member To Class: ClassName=U_Connectors Member=Component J2 WM1744-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J22 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J30 WM1743-ND

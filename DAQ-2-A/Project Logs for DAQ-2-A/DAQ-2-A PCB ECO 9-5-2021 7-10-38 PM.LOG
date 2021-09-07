@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=D+5V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=SCL Pin=J1-3
+Removed Pin From Net: NetName=SDA Pin=J1-4
+Removed Pin From Net: NetName=INTRPT Pin=J1-5
+Removed Pin From Net: NetName=SHTDWN Pin=J1-6
+Removed Member From Class: ClassName=U_Connectors Member=JP7
+Added Pin To Net: NetName=SHTDWN Pin=J1-1
+Added Pin To Net: NetName=INTRPT Pin=J1-2
+Added Pin To Net: NetName=SDA Pin=J1-3
+Added Pin To Net: NetName=SCL Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=D+5V Pin=J1-6
+Added Member To Class: ClassName=U_ADC_Level Member=Component C3 0.1uF
+Added Member To Class: ClassName=U_ADC_Level Member=Component C4 0.1uF
+Added Member To Class: ClassName=U_ADC_Level Member=Component C5 0.1uF
+Added Member To Class: ClassName=U_ADC_Level Member=Component C6 0.1uF
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP2 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP6 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP7 Testpoint2
+Added Member To Class: ClassName=U_Connectors Member=Component JP8 Testpoint2
+Added Member To Class: ClassName=U_Connectors Member=Component JP9 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component R2 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R3 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R8 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R9 5K
+Added Member To Class: ClassName=U_Connectors Member=Component R12 665R
+Added Member To Class: ClassName=U_Connectors Member=Component R13 665R
+Added Member To Class: ClassName=U_ADC_Level Member=Component U2 296-37427-1-ND
+Added Member To Class: ClassName=U_ADC_Level Member=Component U6 296-37427-1-ND

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=D+5V Pin=R12-2
+Removed Pin From Net: NetName=D+5V Pin=R13-2
+Added Pin To Net: NetName=D+3.3V Pin=R12-2
+Added Pin To Net: NetName=D+3.3V Pin=R13-2
+Added Member To Class: ClassName=U_Connectors Member=Component J2 61304021121
+Added Member To Class: ClassName=U_Connectors Member=Component J7 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J12 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J13 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J14 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J15 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J16 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J17 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J18 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J19 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J20 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J24 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J25 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J27 WM1743-ND

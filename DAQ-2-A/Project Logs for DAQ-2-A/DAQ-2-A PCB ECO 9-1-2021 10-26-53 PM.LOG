@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=D+5V Pin=J22-1
+Removed Pin From Net: NetName=SHTDWN Pin=J22-2
+Added Member To Class: ClassName=U_Connectors Member=Component J5 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J9 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J21 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J28 WM1743-ND
+Added Member To Class: ClassName=U_Connectors Member=Component J29 WM1743-ND
