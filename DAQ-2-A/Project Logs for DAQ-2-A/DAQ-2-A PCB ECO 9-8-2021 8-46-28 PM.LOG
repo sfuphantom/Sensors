@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=MUX1_S0 Pin=R2-2
+Removed Pin From Net: NetName=MUX1_S2 Pin=R4-2
+Removed Pin From Net: NetName=NetJ2_36 Pin=U1-3
+Removed Pin From Net: NetName=NetJ2_31 Pin=U1-4
+Removed Pin From Net: NetName=NetJ2_32 Pin=U1-5
+Removed Pin From Net: NetName=MUX1_S2 Pin=U1-20
+Removed Pin From Net: NetName=MUX1_S0 Pin=U1-22
+Added Pin To Net: NetName=MUX1_S2 Pin=R2-2
+Added Pin To Net: NetName=MUX1_S0 Pin=R4-2
+Added Pin To Net: NetName=NetJ2_32 Pin=U1-3
+Added Pin To Net: NetName=NetJ2_36 Pin=U1-4
+Added Pin To Net: NetName=NetJ2_31 Pin=U1-5
+Added Pin To Net: NetName=MUX1_S0 Pin=U1-20
+Added Pin To Net: NetName=MUX1_S2 Pin=U1-22
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP4 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP6 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP7 Testpoint2

@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=U_ADC_Level Member=R14
+Removed Member From Class: ClassName=U_ADC_Level Member=R15
+Added Pin To Net: NetName=D+3.3V Pin=J2-17
+Added Member To Class: ClassName=U_ADC_Level Member=Component R2 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R3 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R4 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R5 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R6 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R7 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R9 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R10 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R11 5K
+Added Member To Class: ClassName=U_Connectors Member=Component R12 5K
+Added Member To Class: ClassName=U_Connectors Member=Component R13 5K

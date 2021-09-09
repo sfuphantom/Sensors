@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=MUX1_S0 Pin=R2-2
+Removed Pin From Net: NetName=MUX1_S1 Pin=R3-2
+Removed Pin From Net: NetName=MUX1_S2 Pin=R4-2
+Removed Pin From Net: NetName=MUX1_S2 Pin=U1-18
+Removed Pin From Net: NetName=MUX1_S1 Pin=U1-19
+Removed Pin From Net: NetName=MUX1_S0 Pin=U1-20
+Added Pin To Net: NetName=MUX1_S2 Pin=R2-2
+Added Pin To Net: NetName=MUX1_S2 Pin=U1-20
+Added Pin To Net: NetName=MUX1_S1 Pin=U1-21
+Added Pin To Net: NetName=MUX1_S0 Pin=U1-22
+Added Pin To Net: NetName=ADC1_ALT Pin=R4-2
+Added Pin To Net: NetName=ADC1_ALT Pin=U1-18
+Added Pin To Net: NetName=ADC1_ALT Pin=U4-2
+Added Net: Name=ADC1_ALT
+Added Pin To Net: NetName=ADC2_ALT Pin=R3-2
+Added Pin To Net: NetName=ADC2_ALT Pin=U1-19
+Added Pin To Net: NetName=ADC2_ALT Pin=U5-2
+Added Net: Name=ADC2_ALT
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Net: Name=NetU1_4

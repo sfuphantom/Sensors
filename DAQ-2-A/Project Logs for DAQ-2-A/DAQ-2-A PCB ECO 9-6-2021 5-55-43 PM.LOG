@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=DOUT1 Pin=J2-13
+Removed Pin From Net: NetName=INTRPT Pin=J2-15
+Removed Pin From Net: NetName=DOUT2 Pin=J2-26
+Removed Pin From Net: NetName=DOUT3 Pin=J2-29
+Removed Pin From Net: NetName=DOUT4 Pin=J2-32
+Removed Pin From Net: NetName=SHTDWN Pin=J2-36
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Net: Name=NetU1_6
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Net: Name=NetU1_8
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Net: Name=NetU1_10
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU5_2 Pin=U5-2
+Added Net: Name=NetU5_2

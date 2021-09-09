@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetJ2_32 Pin=U1-4
+Removed Pin From Net: NetName=NetJ2_31 Pin=U1-5
+Added Pin To Net: NetName=NetJ2_31 Pin=U1-4
+Added Pin To Net: NetName=NetJ2_32 Pin=U1-5
+Added Member To Class: ClassName=U_Connectors Member=Component JP8 732-5315-ND
+Added Member To Class: ClassName=U_Connectors Member=Component JP9 Testpoint2
