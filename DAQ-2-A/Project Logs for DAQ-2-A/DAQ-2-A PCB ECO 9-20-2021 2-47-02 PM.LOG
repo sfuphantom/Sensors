@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetJ23_3 Pin=U6-12
+Removed Pin From Net: NetName=NetJ24_3 Pin=U6-13
+Removed Member From Class: ClassName=U_ADC_Level Member=R14
+Removed Member From Class: ClassName=U_ADC_Level Member=R15
+Added Pin To Net: NetName=NetJ24_3 Pin=U6-12
+Added Pin To Net: NetName=NetJ23_3 Pin=U6-13
+Added Member To Class: ClassName=U_ADC_Level Member=Component C2 1uF
+Added Member To Class: ClassName=U_ADC_Level Member=Component C3 1uF
+Added Member To Class: ClassName=U_ADC_Level Member=Component C5 0.1uF
+Added Member To Class: ClassName=U_ADC_Level Member=Component C6 0.1uF
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP4 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP5 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP6 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component JP7 Testpoint2
+Added Member To Class: ClassName=U_ADC_Level Member=Component R2 1K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R3 1K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R4 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R5 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R6 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R7 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R8 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R9 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R10 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R11 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R12 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component R13 5K
+Added Member To Class: ClassName=U_ADC_Level Member=Component U1 TC2117-3.3VDBTR
+Added Member To Class: ClassName=U_ADC_Level Member=Component U2 NVT2010PW,118
+Added Member To Class: ClassName=U_ADC_Level Member=Component U6 296-37427-1-ND
