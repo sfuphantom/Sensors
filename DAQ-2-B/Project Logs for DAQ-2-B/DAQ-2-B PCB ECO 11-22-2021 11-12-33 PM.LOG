@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=INTRPT Pin=J1-1
+Removed Pin From Net: NetName=SDA Pin=J1-2
+Removed Pin From Net: NetName=SCL Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=D+5V Pin=J1-5
+Removed Member From Class: ClassName=U_Connectors Member=J1
+Added Component: Designator=J?(1X5_1.25MM)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM1745-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=INTRPT Pin=J?-1
+Added Pin To Net: NetName=SDA Pin=J?-2
+Added Pin To Net: NetName=SCL Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=D+5V Pin=J?-5
+Added Member To Class: ClassName=U_Connectors Member=Component J? WM1744-ND

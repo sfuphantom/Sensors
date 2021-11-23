@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [DAQ-2-B.PcbDoc]
+   Generated File[DAQ-2-B.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:35:50 PM On 11/23/2021
