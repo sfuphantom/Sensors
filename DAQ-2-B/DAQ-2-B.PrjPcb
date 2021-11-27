@@ -369,194 +369,278 @@ DocumentPath=Release\BOM\Bill of Materials-DAQ-2-A.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Release\BOM\Bill of Materials-DAQ_1.xlsx
+DocumentPath=Release\BOM\Bill of Materials-DAQ-2-B.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.DRR
+DocumentPath=Release\BOM\Bill of Materials-DAQ_1.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Release\NC Drill\DAQ-1-A.DRR
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.EXTREP
+DocumentPath=Release\NC Drill\DAQ-1-A.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GBL
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GBO
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GBP
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GBS
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GKO
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GM2
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GM4
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GM5
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GTL
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GTO
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GTP
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GTS
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.LDP
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Release\NC Drill\DAQ-1-A.LDP
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.REP
+DocumentPath=Release\NC Drill\DAQ-1-A.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.RUL
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.REP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.TXT
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Release\NC Drill\DAQ-1-A.TXT
+DocumentPath=Project Outputs for DAQ-1-A\DAQ-1-A.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Release\NC Drill\DAQ-2-A.DRR
+DocumentPath=Release\NC Drill\DAQ-1-A.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Release\Gerber\DAQ-2-A.EXTREP
+DocumentPath=Release\NC Drill\DAQ-2-A.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Release\Gerber\DAQ-2-A.GBL
+DocumentPath=Release\Gerber\DAQ-2-A.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Release\Gerber\DAQ-2-A.GBO
+DocumentPath=Release\Gerber\DAQ-2-A.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Release\Gerber\DAQ-2-A.GBP
+DocumentPath=Release\Gerber\DAQ-2-A.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Release\Gerber\DAQ-2-A.GBS
+DocumentPath=Release\Gerber\DAQ-2-A.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Release\Gerber\DAQ-2-A.GKO
+DocumentPath=Release\Gerber\DAQ-2-A.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Release\Gerber\DAQ-2-A.GM2
+DocumentPath=Release\Gerber\DAQ-2-A.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Release\Gerber\DAQ-2-A.GM3
+DocumentPath=Release\Gerber\DAQ-2-A.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Release\Gerber\DAQ-2-A.GTL
+DocumentPath=Release\Gerber\DAQ-2-A.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Release\Gerber\DAQ-2-A.GTO
+DocumentPath=Release\Gerber\DAQ-2-A.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Release\Gerber\DAQ-2-A.GTP
+DocumentPath=Release\Gerber\DAQ-2-A.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Release\Gerber\DAQ-2-A.GTS
+DocumentPath=Release\Gerber\DAQ-2-A.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Release\NC Drill\DAQ-2-A.LDP
+DocumentPath=Release\Gerber\DAQ-2-A.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Release\Gerber\DAQ-2-A.REP
+DocumentPath=Release\NC Drill\DAQ-2-A.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Release\Gerber\DAQ-2-A.RUL
+DocumentPath=Release\Gerber\DAQ-2-A.REP
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Release\NC Drill\DAQ-2-A.TXT
+DocumentPath=Release\Gerber\DAQ-2-A.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Release\NC Drill\DAQ_1.DRR
+DocumentPath=Release\NC Drill\DAQ-2-A.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Release\NC Drill\DAQ_1.LDP
+DocumentPath=Release\NC Drill\DAQ-2-B.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Release\NC Drill\DAQ_1.TXT
+DocumentPath=Release\Gerber\DAQ-2-B.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for DAQ-1-A\Design Rule Check - DAQ-1-A.html
+DocumentPath=Release\Gerber\DAQ-2-B.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for DAQ-2-A\Design Rule Check - DAQ-2-A.html
+DocumentPath=Release\Gerber\DAQ-2-B.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for DAQ_1\Design Rule Check - DAQ_1.html
+DocumentPath=Release\Gerber\DAQ-2-B.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Release\Pick Place\Pick Place for DAQ-1-A.txt
+DocumentPath=Release\Gerber\DAQ-2-B.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Release\Pick Place\Pick Place for DAQ-2-A.txt
+DocumentPath=Release\Gerber\DAQ-2-B.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument50]
+DocumentPath=Release\Gerber\DAQ-2-B.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Release\Gerber\DAQ-2-B.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Release\Gerber\DAQ-2-B.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Release\Gerber\DAQ-2-B.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Release\Gerber\DAQ-2-B.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Release\Gerber\DAQ-2-B.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Release\NC Drill\DAQ-2-B.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Release\Gerber\DAQ-2-B.REP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Release\Gerber\DAQ-2-B.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Release\ExportSTEP\DAQ-2-B.step
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Release\NC Drill\DAQ-2-B.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Release\NC Drill\DAQ_1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Release\NC Drill\DAQ_1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Release\NC Drill\DAQ_1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for DAQ-1-A\Design Rule Check - DAQ-1-A.html
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for DAQ-2-A\Design Rule Check - DAQ-2-A.html
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for DAQ-2-A\Design Rule Check - DAQ-2-B.html
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for DAQ_1\Design Rule Check - DAQ_1.html
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Release\Pick Place\Pick Place for DAQ-1-A.txt
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Release\Pick Place\Pick Place for DAQ-2-A.txt
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Release\Pick Place\Pick Place for DAQ-2-B.txt
+DItemRevisionGUID=
+
+[GeneratedDocument71]
 DocumentPath=Release\Pick Place\Pick Place for DAQ_1.txt
 DItemRevisionGUID=
 
@@ -1549,64 +1633,124 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=1
+SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Connectors.SchLib
-ComponentDesignItemID0=2PIN-TEST
-ComponentSymbolReference0=2PIN-TEST
+ComponentLibraryIdentifier0=Capacitors.SchLib
+ComponentDesignItemID0=0603-0.1uF-16V
+ComponentSymbolReference0=0603-0.1uF-16V
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=LEDs.SchLib
-ComponentDesignItemID1=LED-Green
-ComponentSymbolReference1=LED-Green
+ComponentLibraryIdentifier1=Capacitors.SchLib
+ComponentDesignItemID1=0603-1uF-16V
+ComponentSymbolReference1=0603-1uF-16V
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=LEDs.SchLib
-ComponentDesignItemID2=LED-Red
-ComponentSymbolReference2=LED-Red
+ComponentLibraryIdentifier2=Connectors.SchLib
+ComponentDesignItemID2=2PIN-TEST
+ComponentSymbolReference2=2PIN-TEST
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Misc.SchLib
-ComponentDesignItemID3=Testpoint2
-ComponentSymbolReference3=Testpoint2
+ComponentLibraryIdentifier3=ICs.SchLib
+ComponentDesignItemID3=MUX-SN74LV4051ATDWRQ1
+ComponentSymbolReference3=MUX-SN74LV4051ATDWRQ1
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=New_Parts.SchLib
-ComponentDesignItemID4=CONN_1X3_1.25MM
-ComponentSymbolReference4=CONN_1X3_1.25MM
+ComponentLibraryIdentifier4=LEDs.SchLib
+ComponentDesignItemID4=LED-Green
+ComponentSymbolReference4=LED-Green
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=New_Parts.SchLib
-ComponentDesignItemID5=CONN_1X6_1.25MM
-ComponentSymbolReference5=CONN_1X6_1.25MM
+ComponentLibraryIdentifier5=LEDs.SchLib
+ComponentDesignItemID5=LED-Red
+ComponentSymbolReference5=LED-Red
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=New_Parts.SchLib
-ComponentDesignItemID6=CONN_2X40
-ComponentSymbolReference6=CONN_2X40
+ComponentLibraryIdentifier6=Misc.SchLib
+ComponentDesignItemID6=Testpoint2
+ComponentSymbolReference6=Testpoint2
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Resistors.SchLib
-ComponentDesignItemID7=0603-5KR
-ComponentSymbolReference7=0603-5KR
+ComponentLibraryIdentifier7=New_Parts.SchLib
+ComponentDesignItemID7=0603-200KR
+ComponentSymbolReference7=0603-200KR
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Resistors.SchLib
-ComponentDesignItemID8=0603-665R
-ComponentSymbolReference8=0603-665R
+ComponentLibraryIdentifier8=New_Parts.SchLib
+ComponentDesignItemID8=CONN_1X2_1.25MM
+ComponentSymbolReference8=CONN_1X2_1.25MM
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=New_Parts.SchLib
+ComponentDesignItemID9=CONN_1X3_1.25MM
+ComponentSymbolReference9=CONN_1X3_1.25MM
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=New_Parts.SchLib
+ComponentDesignItemID10=CONN_1X5_1.25MM
+ComponentSymbolReference10=CONN_1X5_1.25MM
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=New_Parts.SchLib
+ComponentDesignItemID11=CONN_2X40
+ComponentSymbolReference11=CONN_2X40
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=New_Parts.SchLib
+ComponentDesignItemID12=IC_ADS1115
+ComponentSymbolReference12=IC_ADS1115
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=New_Parts.SchLib
+ComponentDesignItemID13=IC_NVT2010PW
+ComponentSymbolReference13=IC_NVT2010PW
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=New_Parts.SchLib
+ComponentDesignItemID14=MH2.75mm
+ComponentSymbolReference14=MH2.75mm
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Power.SchLib
+ComponentDesignItemID15=LDO-3.3V-800mA
+ComponentSymbolReference15=LDO-3.3V-800mA
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=Resistors.SchLib
+ComponentDesignItemID16=0603-10KR
+ComponentSymbolReference16=0603-10KR
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=Resistors.SchLib
+ComponentDesignItemID17=0603-1KR
+ComponentSymbolReference17=0603-1KR
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=Resistors.SchLib
+ComponentDesignItemID18=0603-5KR
+ComponentSymbolReference18=0603-5KR
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1620,145 +1764,286 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Case Code (Imperial)
+ParameterName0=-3db Bandwidth
 ParameterUpdate0=1
-ParameterName1=Case Code (Metric)
+ParameterName1=Accuracy
 ParameterUpdate1=1
-ParameterName2=Case/Package
+ParameterName2=Bandwidth
 ParameterUpdate2=1
-ParameterName3=Color
+ParameterName3=Capacitance
 ParameterUpdate3=1
-ParameterName4=Comment
+ParameterName4=Case
 ParameterUpdate4=1
-ParameterName5=Component Kind
+ParameterName5=Case Code (Imperial)
 ParameterUpdate5=1
-ParameterName6=ComponentLink1Description
+ParameterName6=Case Code (Metric)
 ParameterUpdate6=1
-ParameterName7=ComponentLink1URL
+ParameterName7=Case/Package
 ParameterUpdate7=1
-ParameterName8=ComponentLink2Description
+ParameterName8=Category
 ParameterUpdate8=1
-ParameterName9=ComponentLink2URL
+ParameterName9=Color
 ParameterUpdate9=1
-ParameterName10=ComponentLink3Description
+ParameterName10=Comment
 ParameterUpdate10=1
-ParameterName11=ComponentLink3URL
+ParameterName11=Component Kind
 ParameterUpdate11=1
-ParameterName12=ComponentLink4Description
+ParameterName12=ComponentLink1Description
 ParameterUpdate12=1
-ParameterName13=ComponentLink4URL
+ParameterName13=ComponentLink1URL
 ParameterUpdate13=1
-ParameterName14=Composition
+ParameterName14=ComponentLink2Description
 ParameterUpdate14=1
-ParameterName15=Contact Plating
+ParameterName15=ComponentLink2URL
 ParameterUpdate15=1
-ParameterName16=Depth
+ParameterName16=ComponentLink3Description
 ParameterUpdate16=1
-ParameterName17=Description
+ParameterName17=ComponentLink3URL
 ParameterUpdate17=1
-ParameterName18=Dominant Wavelength
+ParameterName18=ComponentLink4Description
 ParameterUpdate18=1
-ParameterName19=Features
+ParameterName19=ComponentLink4URL
 ParameterUpdate19=1
-ParameterName20=Forward Current
+ParameterName20=ComponentLink5Description
 ParameterUpdate20=1
-ParameterName21=Forward Voltage
+ParameterName21=ComponentLink5URL
 ParameterUpdate21=1
-ParameterName22=Height
+ParameterName22=ComponentLink6Description
 ParameterUpdate22=1
-ParameterName23=Lead Free
+ParameterName23=ComponentLink6URL
 ParameterUpdate23=1
-ParameterName24=Length
+ParameterName24=ComponentLink7Description
 ParameterUpdate24=1
-ParameterName25=Lens Style
+ParameterName25=ComponentLink7URL
 ParameterUpdate25=1
-ParameterName26=Library Reference
+ParameterName26=ComponentLink8Description
 ParameterUpdate26=1
-ParameterName27=Luminous Intensity
+ParameterName27=ComponentLink8URL
 ParameterUpdate27=1
-ParameterName28=Manufacturer
+ParameterName28=Composition
 ParameterUpdate28=1
-ParameterName29=Manufacturer Part Number
+ParameterName29=Contact Plating
 ParameterUpdate29=1
-ParameterName30=Max Operating Temperature
+ParameterName30=Conversion Rate
 ParameterUpdate30=1
-ParameterName31=Max Power Dissipation
+ParameterName31=Depth
 ParameterUpdate31=1
-ParameterName32=Military Standard
+ParameterName32=Description
 ParameterUpdate32=1
-ParameterName33=Min Operating Temperature
+ParameterName33=Dielectric
 ParameterUpdate33=1
-ParameterName34=Mount
+ParameterName34=Dielectric Material
 ParameterUpdate34=1
-ParameterName35=Number of Pins
+ParameterName35=Dissipation Factor
 ParameterUpdate35=1
-ParameterName36=Number of Terminations
+ParameterName36=Dominant Wavelength
 ParameterUpdate36=1
-ParameterName37=Package Quantity
+ParameterName37=Dropout Voltage
 ParameterUpdate37=1
-ParameterName38=Packaging
+ParameterName38=Features
 ParameterUpdate38=1
-ParameterName39=Power Rating
+ParameterName39=Forward Current
 ParameterUpdate39=1
-ParameterName40=Pricing 1
+ParameterName40=Forward Voltage
 ParameterUpdate40=1
-ParameterName41=Radiation Hardening
+ParameterName41=Height
 ParameterUpdate41=1
-ParameterName42=REACH SVHC
+ParameterName42=Height - Seated (Max)
 ParameterUpdate42=1
-ParameterName43=Resistance
+ParameterName43=Integral Nonlinearity (INL)
 ParameterUpdate43=1
-ParameterName44=Stock 1
+ParameterName44=Interface
 ParameterUpdate44=1
-ParameterName45=Supplier 1
+ParameterName45=Lead Free
 ParameterUpdate45=1
-ParameterName46=Supplier Part Number 1
+ParameterName46=Lead Pitch
 ParameterUpdate46=1
-ParameterName47=Temperature Coefficient
+ParameterName47=Length
 ParameterUpdate47=1
-ParameterName48=Termination
+ParameterName48=Lens Style
 ParameterUpdate48=1
-ParameterName49=Test Current
+ParameterName49=Library Reference
 ParameterUpdate49=1
-ParameterName50=Thickness
+ParameterName50=Logic Function
 ParameterUpdate50=1
-ParameterName51=Tolerance
+ParameterName51=Luminous Intensity
 ParameterUpdate51=1
-ParameterName52=Viewing Angle
+ParameterName52=Manufacturer
 ParameterUpdate52=1
-ParameterName53=Voltage Rating
+ParameterName53=Manufacturer Part Number
 ParameterUpdate53=1
-ParameterName54=Voltage Rating (DC)
+ParameterName54=Max Input Voltage
 ParameterUpdate54=1
-ParameterName55=Wavelength
+ParameterName55=Max Operating Temperature
 ParameterUpdate55=1
-ParameterName56=Weight
+ParameterName56=Max Output Current
 ParameterUpdate56=1
-ParameterName57=Width
+ParameterName57=Max Output Voltage
 ParameterUpdate57=1
+ParameterName58=Max Power Dissipation
+ParameterUpdate58=1
+ParameterName59=Max Supply Voltage
+ParameterUpdate59=1
+ParameterName60=Max Supply Voltage (DC)
+ParameterUpdate60=1
+ParameterName61=Military Standard
+ParameterUpdate61=1
+ParameterName62=Min Input Voltage
+ParameterUpdate62=1
+ParameterName63=Min Operating Temperature
+ParameterUpdate63=1
+ParameterName64=Min Output Voltage
+ParameterUpdate64=1
+ParameterName65=Min Supply Voltage
+ParameterUpdate65=1
+ParameterName66=Min Supply Voltage (DC)
+ParameterUpdate66=1
+ParameterName67=Mount
+ParameterUpdate67=1
+ParameterName68=Nominal Output Voltage
+ParameterUpdate68=1
+ParameterName69=Number of A/D Converters
+ParameterUpdate69=1
+ParameterName70=Number of Bits
+ParameterUpdate70=1
+ParameterName71=Number of Channels
+ParameterUpdate71=1
+ParameterName72=Number of Circuits
+ParameterUpdate72=1
+ParameterName73=Number of Converters
+ParameterUpdate73=1
+ParameterName74=Number of Inputs
+ParameterUpdate74=1
+ParameterName75=Number of Outputs
+ParameterUpdate75=1
+ParameterName76=Number of Pins
+ParameterUpdate76=1
+ParameterName77=Number of Regulators
+ParameterUpdate77=1
+ParameterName78=Number of Terminations
+ParameterUpdate78=1
+ParameterName79=On-State Resistance
+ParameterUpdate79=1
+ParameterName80=Operating Supply Current
+ParameterUpdate80=1
+ParameterName81=Output Current
+ParameterUpdate81=1
+ParameterName82=Output Type
+ParameterUpdate82=1
+ParameterName83=Output Voltage
+ParameterUpdate83=1
+ParameterName84=Package Quantity
+ParameterUpdate84=1
+ParameterName85=Packaging
+ParameterUpdate85=1
+ParameterName86=Polarity
+ParameterUpdate86=1
+ParameterName87=Power Dissipation
+ParameterUpdate87=1
+ParameterName88=Power Rating
+ParameterUpdate88=1
+ParameterName89=Pricing 1
+ParameterUpdate89=1
+ParameterName90=Propagation Delay
+ParameterUpdate90=1
+ParameterName91=Quiescent Current
+ParameterUpdate91=1
+ParameterName92=Radiation Hardening
+ParameterUpdate92=1
+ParameterName93=REACH SVHC
+ParameterUpdate93=1
+ParameterName94=Resistance
+ParameterUpdate94=1
+ParameterName95=Resolution
+ParameterUpdate95=1
+ParameterName96=RoHS
+ParameterUpdate96=1
+ParameterName97=RoHS Compliant
+ParameterUpdate97=1
+ParameterName98=Sampling Rate
+ParameterUpdate98=1
+ParameterName99=Series
+ParameterUpdate99=1
+ParameterName100=Stock 1
+ParameterUpdate100=1
+ParameterName101=Supplier 1
+ParameterUpdate101=1
+ParameterName102=Supplier Part Number 1
+ParameterUpdate102=1
+ParameterName103=Supply Type
+ParameterUpdate103=1
+ParameterName104=Temperature Coefficient
+ParameterUpdate104=1
+ParameterName105=Termination
+ParameterUpdate105=1
+ParameterName106=Test Current
+ParameterUpdate106=1
+ParameterName107=Thickness
+ParameterUpdate107=1
+ParameterName108=Tolerance
+ParameterUpdate108=1
+ParameterName109=Turn-Off Delay Time
+ParameterUpdate109=1
+ParameterName110=Turn-On Delay Time
+ParameterUpdate110=1
+ParameterName111=Viewing Angle
+ParameterUpdate111=1
+ParameterName112=Voltage
+ParameterUpdate112=1
+ParameterName113=Voltage Rating
+ParameterUpdate113=1
+ParameterName114=Voltage Rating (DC)
+ParameterUpdate114=1
+ParameterName115=Wavelength
+ParameterUpdate115=1
+ParameterName116=Weight
+ParameterUpdate116=1
+ParameterName117=Width
+ParameterUpdate117=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=1X3_1.25MM
+ModelName0=16-SOIC
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=1X6_1.25MM
+ModelName1=1X2_1.25MM
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=2PIN-JP
+ModelName2=1X3_1.25MM
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=2x40_Header
+ModelName3=1X5_1.25MM
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=LED-0603
+ModelName4=2PIN-JP
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=RES-0603
+ModelName5=2x40_Header
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=TP2
+ModelName6=CAP-0603
 ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=LED-0603
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=MH2.7MM
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=RES-0603
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=SOT223
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=TP2
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=TSSOP65P660X110-24
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=VSSOP50P310X310-10P
+ModelUpdate13=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Gaming\Documents\TeamPhantom\Sensors\DAQ-2-B\DAQ-2-B.PcbDoc
-Date     : 11/23/2021
-Time     : 2:04:54 PM
+Date     : 11/27/2021
+Time     : 10:42:31 AM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (IsStitchingVia and InNet('HV_GND')),((IsVia and (Not IsStitchingVia)) Or IsPad)
 Rule Violations :0
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03

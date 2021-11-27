@@ -4,9 +4,9 @@ C:\Users\Gaming\Documents\TeamPhantom\Sensors\DAQ-2-B\Release\Pick Place\Pick Pl
 ========================================================================================================================
 File Design Information:
 
-Date:       23/11/21
-Time:       14:35
-Revision:   b841f0315b9a86d75a5985d96d77a9c795fa0a8e
+Date:       27/11/21
+Time:       10:56
+Revision:   8c23e4f2dffa1d6d41d5dd1215ce5de4b1aa50ba
 Variant:    No variations
 Units used: mil
 
@@ -88,5 +88,5 @@ R1         200K            TopLayer RES-0603            1533.465      1392.520  
 JP7        Testpoint2      TopLayer TP2                 1342.520      902.362       360      "Single layer pad TP"                                                                                                               
 JP1        Testpoint2      TopLayer TP2                 1006.693      764.567       0        "Single layer pad TP"                                                                                                               
 C4         0.1uF           TopLayer CAP-0603            2746.850      841.535       180      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
-C6         0.1uF           TopLayer CAP-0603            2129.134      1014.961      270      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
+C6         0.1uF           TopLayer CAP-0603            2125.984      1048.032      270      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
 C1         0.1uF           TopLayer CAP-0603            1535.433      1451.575      180      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
