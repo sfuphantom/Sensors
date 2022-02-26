@@ -1,24 +1,23 @@
 Altium Designer Pick and Place Locations
-C:\Users\Gaming\Documents\TeamPhantom\Sensors\DAQ-2-B\Release\Pick Place\Pick Place for DAQ-2-B.txt
+C:\Users\jtsang451\Documents\TeamPhantom\Sensors\DAQ-2-B\Release\Pick Place\Pick Place for DAQ-2-B.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       27/11/21
-Time:       10:56
+Date:       24-02-22
+Time:       22:36
 Revision:   8c23e4f2dffa1d6d41d5dd1215ce5de4b1aa50ba
 Variant:    No variations
 Units used: mil
 
 Designator Comment         Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                         
-J1         WM1744-ND       TopLayer 1X5_1.25MM          183.071       1688.583      90       "CONN HEADER R/A 5POS 1.25MM"                                                                                                       
-R12        5K              TopLayer RES-0603            944.488       1231.496      270      "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
-R17        10K             TopLayer RES-0603            295.276       487.992       270      "RES SMD 10K OHM 5% 1/10W 0603"                                                                                                     
-R16        10K             TopLayer RES-0603            397.835       286.614       180      "RES SMD 10K OHM 5% 1/10W 0603"                                                                                                     
+J1         WM1744-ND       TopLayer 1X5_1.25MM          179.921       1699.213      90       "CONN HEADER R/A 5POS 1.25MM"                                                                                                       
+R17        10K             TopLayer RES-0603            280.315       482.677       270      "RES SMD 10K OHM 5% 1/10W 0603"                                                                                                     
+R16        10K             TopLayer RES-0603            397.047       301.575       180      "RES SMD 10K OHM 5% 1/10W 0603"                                                                                                     
 R14        5K              TopLayer RES-0603            529.528       1885.827      270      "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 U1         TC2117-3.3VDBTR TopLayer SOT223              599.595       833.462       0        "IC REG LIN 3.3V 800MA SOT223-3"                                                                                                    
-R3         1K              TopLayer RES-0603            489.370       1004.724      360      "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                      
-R2         1K              TopLayer RES-0603            489.173       1061.811      360      "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                      
+R3         1K              TopLayer RES-0603            489.370       1004.724      0        "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                      
+R2         1K              TopLayer RES-0603            489.173       1061.811      0        "RES SMD 1K OHM 1% 1/10W 0603"                                                                                                      
 D2         Red             TopLayer LED-0603            605.512       1004.724      180      "LED RED CLEAR 0603 SMD"                                                                                                            
 D1         Green           TopLayer LED-0603            605.315       1061.811      180      "LED GREEN CLEAR 0603 SMD"                                                                                                          
 C3         1uF             TopLayer CAP-0603            400.787       894.486       270      "CAP CER 1UF 16V X7R 0603"                                                                                                          
@@ -35,21 +34,22 @@ JP10       732-5315-ND     TopLayer 2PIN-JP             1292.126      1826.378  
 R5         5K              TopLayer RES-0603            1653.150      1231.496      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 R4         5K              TopLayer RES-0603            1741.732      1231.496      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 R13        5K              TopLayer RES-0603            1033.071      1231.496      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
+R12        5K              TopLayer RES-0603            944.488       1231.496      270      "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 R11        5K              TopLayer RES-0603            1121.653      1231.496      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 R10        5K              TopLayer RES-0603            1210.236      1231.496      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 R9         5K              TopLayer RES-0603            1298.819      1231.496      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 R8         5K              TopLayer RES-0603            1387.401      1231.496      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 R7         5K              TopLayer RES-0603            1475.984      1231.496      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
 R6         5K              TopLayer RES-0603            1564.567      1231.496      90       "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
-U7         296-37427-1-ND  TopLayer 16-SOIC             2452.362      1101.575      360      "IC MUX/DEMUX 8X1 16SOIC"                                                                                                           
+U7         296-37427-1-ND  TopLayer 16-SOIC             2452.362      1101.575      0        "IC MUX/DEMUX 8X1 16SOIC"                                                                                                           
 C8         0.1uF           TopLayer CAP-0603            2746.850      1276.575      180      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
 U6         296-37427-1-ND  TopLayer 16-SOIC             1627.165      666.535       180      "IC MUX/DEMUX 8X1 16SOIC"                                                                                                           
 J4         WM1743-ND       TopLayer 1X3_1.25MM          3282.284      1733.859      270      "CONN HEADER R/A 3POS 1.25MM"                                                                                                       
 J23        WM1742-ND       TopLayer 1X2_1.25MM          403.740       182.284       180      "CONN HEADER R/A 2POS 1.25MM"                                                                                                       
-J24        WM1742-ND       TopLayer 1X2_1.25MM          182.284       543.110       90       "CONN HEADER R/A 2POS 1.25MM"                                                                                                       
+J24        WM1742-ND       TopLayer 1X2_1.25MM          182.284       537.598       90       "CONN HEADER R/A 2POS 1.25MM"                                                                                                       
 R15        5K              TopLayer RES-0603            429.528       1885.827      270      "RES SMD 4.99K OHM 1% 1/10W 0603"                                                                                                   
-JP12       Testpoint2      TopLayer TP2                 928.840       1392.759      0        "Single layer pad TP"                                                                                                               
-JP11       Testpoint2      TopLayer TP2                 1025.984      1483.071      0        "Single layer pad TP"                                                                                                               
+JP12       Testpoint2      TopLayer TP2                 944.488       1395.276      0        "Single layer pad TP"                                                                                                               
+JP11       Testpoint2      TopLayer TP2                 1033.071      1494.094      0        "Single layer pad TP"                                                                                                               
 J18        WM1743-ND       TopLayer 1X3_1.25MM          1501.181      182.284       180      "CONN HEADER R/A 3POS 1.25MM"                                                                                                       
 J14        WM1743-ND       TopLayer 1X3_1.25MM          2675.591      182.284       180      "CONN HEADER R/A 3POS 1.25MM"                                                                                                       
 J10        WM1743-ND       TopLayer 1X3_1.25MM          3282.284      387.402       270      "CONN HEADER R/A 3POS 1.25MM"                                                                                                       
@@ -72,21 +72,21 @@ J15        WM1743-ND       TopLayer 1X3_1.25MM          2174.409      182.284   
 J11        WM1743-ND       TopLayer 1X3_1.25MM          3348.819      182.284       180      "CONN HEADER R/A 3POS 1.25MM"                                                                                                       
 J7         WM1743-ND       TopLayer 1X3_1.25MM          3282.283      1060.630      270      "CONN HEADER R/A 3POS 1.25MM"                                                                                                       
 J3         WM1743-ND       TopLayer 1X3_1.25MM          3282.284      1958.268      270      "CONN HEADER R/A 3POS 1.25MM"                                                                                                       
-J2         61304021121     TopLayer 2x40_Header         1279.528      2066.890      360      "CONN HEADER VERT 40POS 2.54MM"                                                                                                     
+J2         61304021121     TopLayer 2x40_Header         1279.528      2066.890      0        "CONN HEADER VERT 40POS 2.54MM"                                                                                                     
 U5         ADS1115IDGST    TopLayer VSSOP50P310X310-10P 1971.653      828.740       90       "TEXAS INSTRUMENTS - ADS1115IDGST . - Analogue to Digital Converter, 16 bit, 860 SPS, Differential, Single Ended, I2C, Single, 2 V" 
-JP6        Testpoint2      TopLayer TP2                 1250.394      902.362       360      "Single layer pad TP"                                                                                                               
-JP5        Testpoint2      TopLayer TP2                 1158.268      902.362       360      "Single layer pad TP"                                                                                                               
+JP6        Testpoint2      TopLayer TP2                 1250.394      902.362       0        "Single layer pad TP"                                                                                                               
+JP5        Testpoint2      TopLayer TP2                 1158.268      902.362       0        "Single layer pad TP"                                                                                                               
 C7         0.1uF           TopLayer CAP-0603            1991.338      1048.032      270      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
-C5         0.1uF           TopLayer CAP-0603            1332.677      491.339       360      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
+C5         0.1uF           TopLayer CAP-0603            1332.677      491.339       0        "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
 MH2        MountingHole    TopLayer MH2.7MM             137.795       137.795       0        "Mounting hole, 2.7mm"                                                                                                              
 MH1        MountingHole    TopLayer MH2.7MM             137.795       2066.929      0        "Mounting hole, 2.7mm"                                                                                                              
 MH3        MountingHole    TopLayer MH2.7MM             2421.260      137.795       0        "Mounting hole, 2.7mm"                                                                                                              
 MH4        MountingHole    TopLayer MH2.7MM             2421.260      2066.929      0        "Mounting hole, 2.7mm"                                                                                                              
-U3         296-37427-1-ND  TopLayer 16-SOIC             2452.362      666.535       360      "IC MUX/DEMUX 8X1 16SOIC"                                                                                                           
+U3         296-37427-1-ND  TopLayer 16-SOIC             2452.362      666.535       0        "IC MUX/DEMUX 8X1 16SOIC"                                                                                                           
 U2         NVT2010PW,118   TopLayer TSSOP65P660X110-24  1304.725      1507.874      270      NVT2010PW/TSSOP24/REEL13//                                                                                                          
-R1         200K            TopLayer RES-0603            1533.465      1392.520      360      "RES SMD 200K OHM 1% 1/10W 0603"                                                                                                    
-JP7        Testpoint2      TopLayer TP2                 1342.520      902.362       360      "Single layer pad TP"                                                                                                               
+R1         200K            TopLayer RES-0603            1533.465      1392.520      0        "RES SMD 200K OHM 1% 1/10W 0603"                                                                                                    
+JP7        Testpoint2      TopLayer TP2                 1342.520      902.362       0        "Single layer pad TP"                                                                                                               
 JP1        Testpoint2      TopLayer TP2                 1006.693      764.567       0        "Single layer pad TP"                                                                                                               
 C4         0.1uF           TopLayer CAP-0603            2746.850      841.535       180      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
-C6         0.1uF           TopLayer CAP-0603            2125.984      1048.032      270      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
+C6         0.1uF           TopLayer CAP-0603            2129.134      1014.961      270      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        
 C1         0.1uF           TopLayer CAP-0603            1535.433      1451.575      180      "CAP CER 0.1UF 16V X7R 0603"                                                                                                        

@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Gaming\Documents\TeamPhantom\Sensors\DAQ-2-B\DAQ-2-B.PcbDoc
+DRC Rules Export File for PCB: C:\Users\jtsang451\Documents\TeamPhantom\Sensors\DAQ-2-B\DAQ-2-B.PcbDoc
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95

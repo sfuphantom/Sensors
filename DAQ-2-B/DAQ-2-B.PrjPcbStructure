@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=root.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=U_ADC_Level|SchDesignator=U_ADC_Level|FileName=ADC_Level.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ADC_Level.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=U_Connectors|SchDesignator=U_Connectors|FileName=Connectors.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

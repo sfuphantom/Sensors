@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: DAQ-2-B.PcbDoc   11/27/2021  10:56:09 AM
+NCDrill File Report For: DAQ-2-B.PcbDoc   2022-02-24  10:36:39 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : DAQ-2-B.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      18mil (0.45mm)                                            Round             109       PTH        0.00inch (0.00mm)
-T2      22mil (0.55mm)                                            Round             81        PTH        0.00inch (0.00mm)
-T3      45mil (1.15mm)                                            Round             44        PTH        0.00inch (0.00mm)
-T4      108mil (2.75mm)         +/-2mil (0.05mm)                  Round             4         PTH        0.00inch (0.00mm)
+T1      18mil (0.45mm)                                            Round             70        PTH        13.84inch (351.49mm)
+T2      22mil (0.55mm)                                            Round             81        PTH        10.16inch (258.14mm)
+T3      45mil (1.15mm)                                            Round             44        PTH        5.47inch (138.89mm)
+T4      108mil (2.75mm)         +/-2mil (0.05mm)                  Round             4         PTH        6.50inch (165.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              238
+Totals                                                                              199
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
